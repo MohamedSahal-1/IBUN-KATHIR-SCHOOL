@@ -1,0 +1,14 @@
+{
+  "name": "ibun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "hugo --minify",
+    "dev": "hugo server -D"
+  
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
