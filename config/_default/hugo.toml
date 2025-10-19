@@ -148,3 +148,25 @@ title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
 link = "https://www.instagram.com/ibun_kathir_islamic_school/"
 
+
+
+[languages]
+
+  [languages.en]
+    languageName = "English"
+    weight = 1
+    title = "Educenter"
+    contentDir = "content/en"
+
+  [languages.fr]
+    languageName = "Français"
+    weight = 2
+    title = "Educenter Français"
+    contentDir = "content/fr"
+
+  [languages.ar]
+    languageName = "العربية"
+    weight = 3
+    title = "مدرسة ابن كثير الإسلامية"
+    contentDir = "content/ar"
+    languageDirection = "rtl"

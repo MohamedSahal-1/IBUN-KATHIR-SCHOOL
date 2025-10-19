@@ -76,6 +76,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/ar/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/categories/"
                 />
@@ -314,6 +319,24 @@
                 href="http://localhost:1313/fr/categories/education-system/"
                 />
   </url><url>
+    <loc>http://localhost:1313/fr/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/ar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/fr/"
+                />
+  </url><url>
     <loc>http://localhost:1313/fr/tags/english/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -416,19 +439,6 @@
                 rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/research/research-6/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/fr/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/fr/"
                 />
   </url><url>
     <loc>http://localhost:1313/fr/course/course-3/</loc>
@@ -645,6 +655,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
