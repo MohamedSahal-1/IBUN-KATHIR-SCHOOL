@@ -16,10 +16,38 @@
       <description></description>
     </item>
     <item>
+      <title>Deep Learning</title>
+      <link>http://localhost:1313/categories/deep-learning/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <guid>http://localhost:1313/categories/deep-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eco System</title>
+      <link>http://localhost:1313/categories/eco-system/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <guid>http://localhost:1313/categories/eco-system/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Education System</title>
       <link>http://localhost:1313/categories/education-system/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       <guid>http://localhost:1313/categories/education-system/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>English Learning</title>
+      <link>http://localhost:1313/categories/english-learning/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <guid>http://localhost:1313/categories/english-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mathmatics Learning</title>
+      <link>http://localhost:1313/categories/mathmatics-learning/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <guid>http://localhost:1313/categories/mathmatics-learning/</guid>
       <description></description>
     </item>
   </channel>

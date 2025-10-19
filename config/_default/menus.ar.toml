@@ -1,0 +1,76 @@
+################### Arabic navigation ####################
+
+# main menu
+[[main]]
+name = "عن المدرسة"
+url = "about/"
+weight = 1
+
+[[main]]
+name = "الدورات"
+url = "course/"
+weight = 2
+
+[[main]]
+weight = 3
+name = "الصفحات"
+hasChildren = true
+
+  [[main]]
+  parent = "Pages"
+  name = "المدرسين"
+  url = "teacher/"
+
+  [[main]]
+  parent = "Pages"
+  name = "ملاحظة"
+  url = "notice/"
+
+  [[main]]
+  parent = "Pages"
+  name = "الأحداث"
+  url = "event/"
+
+  [[main]]
+  parent = "Pages"
+  name = "منحة دراسية"
+  url = "scholarship/"
+
+  [[main]]
+  parent = "Pages"
+  name = "بحث علمي"
+  url = "research/"
+  
+[[main]]
+name = "مدونة"
+url = "blog/"
+weight = 4
+  
+[[main]]
+name = "اتصل بنا"
+url = "contact/"
+weight = 5
+
+
+# footer menu
+
+[[footer]]
+name = "المدرسين"
+url = "teacher/"
+
+[[footer]]
+name = "ملاحظة"
+url = "notice/"
+
+[[footer]]
+name = "الأحداث"
+url = "event/"
+
+[[footer]]
+name = "منحة دراسية"
+url = "scholarship/"
+
+[[footer]]
+name = "بحث علمي"
+url = "research/"
+

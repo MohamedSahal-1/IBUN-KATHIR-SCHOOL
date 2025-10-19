@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/ar/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ar/event/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/event/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/event/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -19,6 +31,42 @@
                 hreflang="ar"
                 href="http://localhost:1313/event/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/ar/event/event-1/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ar/event/event-2/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ar/event/event-3/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ar/event/event-4/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ar/event/event-5/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ar/event/event-6/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/event/event-1/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/event/event-2/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/event/event-3/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/event/event-4/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/event/event-5/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/event/event-6/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/event/event-1/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
@@ -142,6 +190,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="languages"
+                href="http://localhost:1313/languages/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ar"
                 href="http://localhost:1313/"
                 />
@@ -164,6 +217,27 @@
                 href="http://localhost:1313/tags/advice/"
                 />
   </url><url>
+    <loc>http://localhost:1313/tags/ai/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/ai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/fr/tags/ai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/tags/ai/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ar/course/course-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/course/course-5/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -182,6 +256,15 @@
                 href="http://localhost:1313/course/course-5/"
                 />
   </url><url>
+    <loc>http://localhost:1313/english/course/course-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/french/course/course-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ar/course/course-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/course/course-3/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -199,6 +282,9 @@
                 hreflang="ar"
                 href="http://localhost:1313/course/course-3/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/english/course/course-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/automation/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
@@ -250,8 +336,106 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="languages"
+                href="http://localhost:1313/languages/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ar"
                 href="http://localhost:1313/categories/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/french/event/event-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/french/event/event-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/french/event/event-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/french/event/event-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/french/event/event-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/french/event/event-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/deep-learning/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/categories/deep-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/fr/categories/deep-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/categories/deep-learning/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/french/blog/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/french/blog/blog-post-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/french/blog/blog-post-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/french/blog/blog-post-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/french/blog/blog-post-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/french/blog/blog-post-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/french/blog/blog-post-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/eco/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/eco/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/fr/tags/eco/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/tags/eco/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/categories/eco-system/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/categories/eco-system/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/fr/categories/eco-system/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/categories/eco-system/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/education/</loc>
@@ -290,6 +474,24 @@
                 href="http://localhost:1313/categories/education-system/"
                 />
   </url><url>
+    <loc>http://localhost:1313/ar/blog/blog-post-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ar/blog/blog-post-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ar/blog/blog-post-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ar/blog/blog-post-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ar/blog/blog-post-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ar/blog/blog-post-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/blog-post-1/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -325,6 +527,189 @@
                 hreflang="ar"
                 href="http://localhost:1313/blog/blog-post-2/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/blog/blog-post-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/blog/blog-post-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/fr/blog/blog-post-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/blog/blog-post-3/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blog/blog-post-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/blog/blog-post-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/fr/blog/blog-post-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/blog/blog-post-4/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blog/blog-post-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/blog/blog-post-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/fr/blog/blog-post-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/blog/blog-post-5/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blog/blog-post-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/blog/blog-post-6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/fr/blog/blog-post-6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/blog/blog-post-6/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/english/blog/blog-post-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/blog/blog-post-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/blog/blog-post-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/blog/blog-post-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/blog/blog-post-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/blog/blog-post-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/english/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/english/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/fr/tags/english/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/tags/english/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/categories/english-learning/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/categories/english-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/fr/categories/english-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/categories/english-learning/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/french/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/french/research/research-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/french/research/research-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/french/research/research-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/french/research/research-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/french/research/research-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/french/research/research-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ar/research/research-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ar/research/research-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ar/research/research-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ar/research/research-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ar/research/research-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ar/research/research-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/research/research-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/research/research-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/research/research-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/research/research-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/research/research-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/research/research-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/research/research-1/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
@@ -434,6 +819,12 @@
                 href="http://localhost:1313/research/research-6/"
                 />
   </url><url>
+    <loc>http://localhost:1313/french/course/course-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ar/course/course-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/course/course-4/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -451,6 +842,36 @@
                 hreflang="ar"
                 href="http://localhost:1313/course/course-4/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/english/course/course-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/french/course/course-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/blog/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/french/notice/notice-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/french/notice/notice-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/french/notice/notice-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/french/notice/notice-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/french/notice/notice-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/french/notice/notice-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ar/course/course-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/course/course-2/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
@@ -470,6 +891,48 @@
                 href="http://localhost:1313/course/course-2/"
                 />
   </url><url>
+    <loc>http://localhost:1313/english/course/course-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/french/course/course-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/mathmatics-learning/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/categories/mathmatics-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/fr/categories/mathmatics-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/categories/mathmatics-learning/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/french/course/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/french/event/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/french/research/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ar/notice/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/notice/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/french/notice/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notice/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -487,6 +950,12 @@
                 hreflang="ar"
                 href="http://localhost:1313/notice/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/ar/course/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ar/research/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/course/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
@@ -506,6 +975,12 @@
                 href="http://localhost:1313/course/"
                 />
   </url><url>
+    <loc>http://localhost:1313/english/course/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/research/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/research/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -523,6 +998,12 @@
                 hreflang="ar"
                 href="http://localhost:1313/research/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/french/course/course-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ar/course/course-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/course/course-1/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
@@ -542,6 +1023,27 @@
                 href="http://localhost:1313/course/course-1/"
                 />
   </url><url>
+    <loc>http://localhost:1313/english/course/course-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/rules/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/rules/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/fr/tags/rules/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/tags/rules/"
+                />
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -556,9 +1058,50 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="languages"
+                href="http://localhost:1313/languages/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ar"
                 href="http://localhost:1313/tags/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/ar/notice/notice-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ar/notice/notice-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ar/notice/notice-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ar/notice/notice-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ar/notice/notice-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ar/notice/notice-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/notice/notice-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/notice/notice-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/notice/notice-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/notice/notice-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/notice/notice-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/notice/notice-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notice/notice-1/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
@@ -668,6 +1211,9 @@
                 href="http://localhost:1313/notice/notice-6/"
                 />
   </url><url>
+    <loc>http://localhost:1313/ar/course/course-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/course/course-6/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -685,6 +1231,15 @@
                 hreflang="ar"
                 href="http://localhost:1313/course/course-6/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/english/course/course-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/french/course/course-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ar/blog/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
@@ -704,6 +1259,12 @@
                 href="http://localhost:1313/blog/"
                 />
   </url><url>
+    <loc>http://localhost:1313/french/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/french/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ar/contact/</loc>
+  </url><url>
     <loc>http://localhost:1313/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -720,6 +1281,16 @@
                 hreflang="ar"
                 href="http://localhost:1313/contact/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/english/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ar/teacher/alex-rook/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/teacher/alex-rook/</loc>
+  </url><url>
+    <loc>http://localhost:1313/french/teacher/alex-rook/</loc>
   </url><url>
     <loc>http://localhost:1313/teacher/alex-rook/</loc>
     <xhtml:link
@@ -754,6 +1325,20 @@
                 hreflang="ar"
                 href="http://localhost:1313/author/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/french/scholarship/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ar/scholarship/scholarship-1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ar/scholarship/scholarship-2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ar/scholarship/scholarship-3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/scholarship/scholarship-1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/scholarship/scholarship-2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/scholarship/scholarship-3/</loc>
   </url><url>
     <loc>http://localhost:1313/scholarship/scholarship-1/</loc>
     <xhtml:link
@@ -806,6 +1391,12 @@
                 href="http://localhost:1313/scholarship/scholarship-3/"
                 />
   </url><url>
+    <loc>http://localhost:1313/ar/teacher/clark-malik/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/teacher/clark-malik/</loc>
+  </url><url>
+    <loc>http://localhost:1313/french/teacher/clark-malik/</loc>
+  </url><url>
     <loc>http://localhost:1313/teacher/clark-malik/</loc>
     <xhtml:link
                 rel="alternate"
@@ -822,6 +1413,12 @@
                 hreflang="ar"
                 href="http://localhost:1313/teacher/clark-malik/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/ar/teacher/devid-luis/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/teacher/devid-luis/</loc>
+  </url><url>
+    <loc>http://localhost:1313/french/teacher/devid-luis/</loc>
   </url><url>
     <loc>http://localhost:1313/teacher/devid-luis/</loc>
     <xhtml:link
@@ -840,6 +1437,12 @@
                 href="http://localhost:1313/teacher/devid-luis/"
                 />
   </url><url>
+    <loc>http://localhost:1313/ar/teacher/duis-rio/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/teacher/duis-rio/</loc>
+  </url><url>
+    <loc>http://localhost:1313/french/teacher/duis-rio/</loc>
+  </url><url>
     <loc>http://localhost:1313/teacher/duis-rio/</loc>
     <xhtml:link
                 rel="alternate"
@@ -856,6 +1459,18 @@
                 hreflang="ar"
                 href="http://localhost:1313/teacher/duis-rio/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/french/scholarship/scholarship-1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/french/scholarship/scholarship-2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/french/scholarship/scholarship-3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ar/teacher/jacke-mastio/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/teacher/jacke-mastio/</loc>
+  </url><url>
+    <loc>http://localhost:1313/french/teacher/jacke-mastio/</loc>
   </url><url>
     <loc>http://localhost:1313/teacher/jacke-mastio/</loc>
     <xhtml:link
@@ -874,7 +1489,15 @@
                 href="http://localhost:1313/teacher/jacke-mastio/"
                 />
   </url><url>
+    <loc>http://localhost:1313/ar/author/john-dou/</loc>
+  </url><url>
     <loc>http://localhost:1313/author/john-dou/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/author/john-doe/</loc>
+  </url><url>
+    <loc>http://localhost:1313/french/author/john-doe/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ar/author/mark-dinn/</loc>
   </url><url>
     <loc>http://localhost:1313/author/mark-dinn/</loc>
     <xhtml:link
@@ -893,6 +1516,16 @@
                 href="http://localhost:1313/author/mark-dinn/"
                 />
   </url><url>
+    <loc>http://localhost:1313/english/author/mark-dinn/</loc>
+  </url><url>
+    <loc>http://localhost:1313/french/author/mark-dinn/</loc>
+  </url><url>
+    <loc>http://localhost:1313/french/teacher/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ar/teacher/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/teacher/</loc>
+  </url><url>
     <loc>http://localhost:1313/teacher/</loc>
     <xhtml:link
                 rel="alternate"
@@ -910,6 +1543,10 @@
                 href="http://localhost:1313/teacher/"
                 />
   </url><url>
+    <loc>http://localhost:1313/ar/scholarship/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/scholarship/</loc>
+  </url><url>
     <loc>http://localhost:1313/scholarship/</loc>
     <xhtml:link
                 rel="alternate"
@@ -926,6 +1563,12 @@
                 hreflang="ar"
                 href="http://localhost:1313/scholarship/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/ar/teacher/zim-cook/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/teacher/zim-cook/</loc>
+  </url><url>
+    <loc>http://localhost:1313/french/teacher/zim-cook/</loc>
   </url><url>
     <loc>http://localhost:1313/teacher/zim-cook/</loc>
     <xhtml:link
@@ -960,5 +1603,7 @@
                 hreflang="ar"
                 href="http://localhost:1313/about/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/ar/about/</loc>
   </url>
 </urlset>

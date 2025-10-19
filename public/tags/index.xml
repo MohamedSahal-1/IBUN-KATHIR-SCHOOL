@@ -16,6 +16,13 @@
       <description></description>
     </item>
     <item>
+      <title>AI</title>
+      <link>http://localhost:1313/tags/ai/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <guid>http://localhost:1313/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Automation</title>
       <link>http://localhost:1313/tags/automation/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
@@ -23,10 +30,31 @@
       <description></description>
     </item>
     <item>
+      <title>Eco</title>
+      <link>http://localhost:1313/tags/eco/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <guid>http://localhost:1313/tags/eco/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Education</title>
       <link>http://localhost:1313/tags/education/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       <guid>http://localhost:1313/tags/education/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>English</title>
+      <link>http://localhost:1313/tags/english/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <guid>http://localhost:1313/tags/english/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rules</title>
+      <link>http://localhost:1313/tags/rules/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <guid>http://localhost:1313/tags/rules/</guid>
       <description></description>
     </item>
   </channel>

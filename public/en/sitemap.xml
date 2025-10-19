@@ -16,6 +16,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="languages"
+                href="http://localhost:1313/languages/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/en/"
                 />
@@ -168,6 +173,11 @@
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/tags/ai/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/tags/ai/"
                 />
@@ -263,12 +273,22 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="languages"
+                href="http://localhost:1313/languages/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/en/categories/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/categories/deep-learning/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/categories/deep-learning/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
@@ -284,6 +304,11 @@
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/tags/eco/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/tags/eco/"
                 />
@@ -295,6 +320,11 @@
   </url><url>
     <loc>http://localhost:1313/en/categories/eco-system/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/categories/eco-system/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
@@ -382,6 +412,11 @@
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/blog/blog-post-3/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/blog/blog-post-3/"
                 />
@@ -393,6 +428,11 @@
   </url><url>
     <loc>http://localhost:1313/en/blog/blog-post-4/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/blog/blog-post-4/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
@@ -408,6 +448,11 @@
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/blog/blog-post-5/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/blog/blog-post-5/"
                 />
@@ -419,6 +464,11 @@
   </url><url>
     <loc>http://localhost:1313/en/blog/blog-post-6/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/blog/blog-post-6/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
@@ -434,6 +484,11 @@
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/tags/english/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/tags/english/"
                 />
@@ -445,6 +500,11 @@
   </url><url>
     <loc>http://localhost:1313/en/categories/english-learning/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/categories/english-learning/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
@@ -622,6 +682,11 @@
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/categories/mathmatics-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/categories/mathmatics-learning/"
                 />
@@ -707,6 +772,11 @@
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/tags/rules/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/tags/rules/"
                 />
@@ -727,6 +797,11 @@
                 rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="languages"
+                href="http://localhost:1313/languages/tags/"
                 />
     <xhtml:link
                 rel="alternate"
