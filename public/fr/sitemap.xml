@@ -6,6 +6,11 @@
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/tags/advice/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/en/tags/advice/"
                 />
@@ -45,6 +50,11 @@
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/tags/automation/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/en/tags/automation/"
                 />
@@ -56,6 +66,11 @@
   </url><url>
     <loc>http://localhost:1313/fr/categories/automation-system/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/categories/automation-system/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -71,13 +86,13 @@
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/categories/"
+                hreflang="ar"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/categories/"
+                hreflang="en-us"
+                href="http://localhost:1313/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -185,12 +200,22 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/blog/"
                 />
   </url><url>
     <loc>http://localhost:1313/fr/blog/blog-post-1/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/blog/blog-post-1/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -653,13 +678,13 @@
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/"
+                hreflang="ar"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/tags/"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -685,6 +710,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/about/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -717,6 +747,11 @@
                 />
   </url><url>
     <loc>http://localhost:1313/fr/author/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/author/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -837,6 +872,11 @@
                 />
   </url><url>
     <loc>http://localhost:1313/fr/author/mark-dinn/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/author/mark-dinn/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
