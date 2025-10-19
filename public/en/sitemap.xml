@@ -24,6 +24,11 @@
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/event/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/event/"
                 />
@@ -35,6 +40,11 @@
   </url><url>
     <loc>http://localhost:1313/en/event/event-1/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/event/event-1/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
@@ -50,6 +60,11 @@
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/event/event-2/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/event/event-2/"
                 />
@@ -61,6 +76,11 @@
   </url><url>
     <loc>http://localhost:1313/en/event/event-3/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/event/event-3/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
@@ -76,6 +96,11 @@
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/event/event-4/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/event/event-4/"
                 />
@@ -89,6 +114,11 @@
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/event/event-5/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/event/event-5/"
                 />
@@ -100,6 +130,11 @@
   </url><url>
     <loc>http://localhost:1313/en/event/event-6/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/event/event-6/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
@@ -146,6 +181,11 @@
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/course/course-5/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/course/course-5/"
                 />
@@ -157,6 +197,11 @@
   </url><url>
     <loc>http://localhost:1313/en/course/course-3/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/course/course-3/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
@@ -265,6 +310,11 @@
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/tags/education/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/tags/education/"
                 />
@@ -276,6 +326,11 @@
   </url><url>
     <loc>http://localhost:1313/en/categories/education-system/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/categories/education-system/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
@@ -307,6 +362,11 @@
   </url><url>
     <loc>http://localhost:1313/en/blog/blog-post-2/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/blog/blog-post-2/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
@@ -400,6 +460,11 @@
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/research/research-1/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/research/research-1/"
                 />
@@ -411,6 +476,11 @@
   </url><url>
     <loc>http://localhost:1313/en/research/research-2/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/research/research-2/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
@@ -426,6 +496,11 @@
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/research/research-3/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/research/research-3/"
                 />
@@ -437,6 +512,11 @@
   </url><url>
     <loc>http://localhost:1313/en/research/research-4/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/research/research-4/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
@@ -452,6 +532,11 @@
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/research/research-5/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/research/research-5/"
                 />
@@ -465,6 +550,11 @@
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/research/research-6/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/research/research-6/"
                 />
@@ -476,6 +566,11 @@
   </url><url>
     <loc>http://localhost:1313/en/course/course-4/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/course/course-4/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
@@ -509,6 +604,11 @@
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/course/course-2/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/course/course-2/"
                 />
@@ -535,6 +635,11 @@
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/notice/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/notice/"
                 />
@@ -546,6 +651,11 @@
   </url><url>
     <loc>http://localhost:1313/en/course/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/course/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
@@ -561,6 +671,11 @@
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/research/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/research/"
                 />
@@ -572,6 +687,11 @@
   </url><url>
     <loc>http://localhost:1313/en/course/course-1/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/course/course-1/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
@@ -618,6 +738,11 @@
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/notice/notice-1/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/notice/notice-1/"
                 />
@@ -629,6 +754,11 @@
   </url><url>
     <loc>http://localhost:1313/en/notice/notice-2/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/notice/notice-2/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
@@ -644,6 +774,11 @@
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/notice/notice-3/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/notice/notice-3/"
                 />
@@ -655,6 +790,11 @@
   </url><url>
     <loc>http://localhost:1313/en/notice/notice-4/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/notice/notice-4/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
@@ -670,6 +810,11 @@
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/notice/notice-5/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/notice/notice-5/"
                 />
@@ -683,6 +828,11 @@
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/notice/notice-6/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/notice/notice-6/"
                 />
@@ -694,6 +844,11 @@
   </url><url>
     <loc>http://localhost:1313/en/course/course-6/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/course/course-6/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
@@ -725,6 +880,11 @@
     <loc>http://localhost:1313/en/contact/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/contact/"
                 />
@@ -735,6 +895,11 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/teacher/alex-rook/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/teacher/alex-rook/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
@@ -766,6 +931,11 @@
     <loc>http://localhost:1313/en/scholarship/scholarship-1/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/scholarship/scholarship-1/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/scholarship/scholarship-1/"
                 />
@@ -776,6 +946,11 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/scholarship/scholarship-2/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/scholarship/scholarship-2/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
@@ -790,6 +965,11 @@
     <loc>http://localhost:1313/en/scholarship/scholarship-3/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/scholarship/scholarship-3/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/scholarship/scholarship-3/"
                 />
@@ -800,6 +980,11 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/teacher/clark-malik/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/teacher/clark-malik/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
@@ -814,6 +999,11 @@
     <loc>http://localhost:1313/en/teacher/devid-luis/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/teacher/devid-luis/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/teacher/devid-luis/"
                 />
@@ -826,6 +1016,11 @@
     <loc>http://localhost:1313/en/teacher/duis-rio/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/teacher/duis-rio/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/teacher/duis-rio/"
                 />
@@ -836,6 +1031,11 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/teacher/jacke-mastio/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/teacher/jacke-mastio/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
@@ -879,6 +1079,11 @@
     <loc>http://localhost:1313/en/teacher/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/teacher/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/teacher/"
                 />
@@ -891,6 +1096,11 @@
     <loc>http://localhost:1313/en/scholarship/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/scholarship/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/scholarship/"
                 />
@@ -901,6 +1111,11 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/teacher/zim-cook/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/teacher/zim-cook/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
