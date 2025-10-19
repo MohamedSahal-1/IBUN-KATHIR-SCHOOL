@@ -2,7 +2,7 @@
 
 ######################## default configuration ####################
 baseURL = "http://localhost:1313/"
-title = "Educenter | hugo education template"
+title = "IBUN KATHIR ISLAMIC SCHOOL"
 theme = "educenter-hugo"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
 timeZone = "America/New_York"
@@ -27,11 +27,11 @@ shortname = 'themefisher-template' # we use disqus to show comments in blog post
 logo = "images/ibunlogo.png"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "Ibunkathir"
 # contact info
 address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
-email = "info@educenter.com"
+mobile = "+233 50 078 5143"
+email = "info@ibunkathir.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
