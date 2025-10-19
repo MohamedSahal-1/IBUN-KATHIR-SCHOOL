@@ -140,7 +140,7 @@ expire_days = 2
 [[params.social]]
 title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/ibun.kathir.islam.sch"
 
 [[params.social]]
 title = "twitter"
@@ -150,7 +150,7 @@ link = "#"
 [[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.instagram.com/ibun_kathir_islamic_school/"
 
 [[params.social]]
 title = "github"
