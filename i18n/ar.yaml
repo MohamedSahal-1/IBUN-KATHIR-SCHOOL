@@ -1,0 +1,109 @@
+- id: read_more
+  translation: اقرأ المزيد
+
+- id: contact_form
+  translation: نموذج الاتصال
+
+- id: send
+  translation: إرسل رسالة
+
+- id: contact_info
+  translation: معلومات الاتصال
+
+- id: subscribe_newsletter
+  translation: اشترك في النشرة الإخبارية
+
+- id: subscribe
+  translation: اشترك  
+
+- id: contact_us
+  translation: اتصل بنا
+
+- id: latest_article
+  translation: أحدث مقال
+
+- id: categories
+  translation: فئات
+
+- id: tags
+  translation: العلامات
+
+- id: see_all
+  translation: انظر الكل
+
+- id: apply_now
+  translation: سجل الآن
+
+- id: posted_by
+  translation: تم نشره بواسطة
+
+- id: date
+  translation: تاريخ
+
+- id: time
+  translation: وقت
+
+- id: category
+  translation: فئة
+
+- id: related_course
+  translation: دورة ذات صلة
+- id: duration
+  translation: مدة
+
+- id: weekly
+  translation: أسبوعي
+
+- id: fee
+  translation: مصاريف
+
+- id: teacher
+  translation: المدرس
+
+- id: location
+  translation: موقع
+
+- id: entry_fee
+  translation: رسوم الدخول
+
+- id: event_speaker
+  translation: المتحدثون في الحدث
+
+- id: more_event
+  translation: المزيد من الأحداث
+
+- id: join
+  translation: انضم
+  
+- id: enter_email
+  translation: أدخل بريدك الإلكتروني…
+
+- id: company
+  translation: شركة
+
+- id: links
+  translation: روابط
+
+- id: courses
+  translation: الدورات
+
+- id: new_notice
+  translation: إشعار جديد
+
+- id: call
+  translation: اتصل
+
+- id: email
+  translation: بريد إلكتروني
+
+- id: all
+  translation: الجميع
+
+- id: interest
+  translation: ملخص الأنشطة/الاهتمامات
+
+- id: our_teachers
+  translation: معلمينا
+
+- id: download
+  translation: تحميل
