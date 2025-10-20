@@ -849,6 +849,27 @@
     <loc>http://localhost:1313/french/course/course-4/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/ar/blog/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/fr/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/blog/"
+                />
+  </url><url>
     <loc>http://localhost:1313/english/blog/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
@@ -1238,30 +1259,28 @@
     <loc>http://localhost:1313/french/course/course-6/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ar/blog/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <loc>http://localhost:1313/french/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <loc>http://localhost:1313/french/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/blog/"
+                href="http://localhost:1313/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/fr/blog/"
+                href="http://localhost:1313/fr/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/blog/"
+                href="http://localhost:1313/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/french/about/</loc>
-  </url><url>
-    <loc>http://localhost:1313/french/contact/</loc>
+    <loc>http://localhost:1313/ar/about/</loc>
   </url><url>
     <loc>http://localhost:1313/ar/contact/</loc>
   </url><url>
@@ -1489,9 +1508,24 @@
                 href="http://localhost:1313/teacher/jacke-mastio/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ar/author/john-dou/</loc>
+    <loc>http://localhost:1313/ar/author/john-doe/</loc>
   </url><url>
-    <loc>http://localhost:1313/author/john-dou/</loc>
+    <loc>http://localhost:1313/author/john-doe/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/author/john-doe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/fr/author/john-doe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/author/john-doe/"
+                />
   </url><url>
     <loc>http://localhost:1313/english/author/john-doe/</loc>
   </url><url>
@@ -1586,24 +1620,5 @@
                 hreflang="ar"
                 href="http://localhost:1313/teacher/zim-cook/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/fr/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/about/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/ar/about/</loc>
   </url>
 </urlset>

@@ -1125,6 +1125,11 @@
     <loc>http://localhost:1313/en/author/john-doe/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/author/john-doe/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/author/john-doe/"
                 />

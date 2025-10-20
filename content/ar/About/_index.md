@@ -1,5 +1,5 @@
 ---
-title: "عن المدرسه"
+title: "About Us"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -9,15 +9,15 @@ image: "images/about/about-page.jpg"
 description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
 ---
 
-## عن رحلتنا
+## ABOUT OUR JOURNY
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut Labore
-et.dolore ماجنا أليكا. Ut enim ad minim veniam، quis nostrud. لوريم إيبسوم دولور الجلوس أميت كونسيكتور،
-adipisicing النخبة. Saepe ipsa illo quod veritatis, magni debit fugiat dolore voluptates! نتيجة,
-السائل. لوريم إيبسوم دولور سيت أميت، consectetur adipisicing elit. Quaerat perferendis هو خيار مماثل.
-وهي سهلة الاستخدام للغاية للجسم.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
+et.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet consectetur,
+adipisicing elit. Saepe ipsa illo quod veritatis, magni debitis fugiat dolore voluptates! Consequatur,
+aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat perferendis sint optio similique.
+Et amet magni facilis vero corporis quos.
 
-ممارسة ullamco Laboris nisi ut aliquip ex ea comdo consequat. Duis aute irure dolor في التوبيخ
-In voluptate velit esse cillum dolore eu fugiat nulla pariatur. لوريم إيبسوم، دولور سيت أميت كونسيكتور
-adipisicing النخبة. باختصار، خطأ وجهي هارب يتهم المكتب بأنه حقيقي، عملنا فاسد
-توضيح، مع تكرار التصورات التي يتم تركيبها عليها. لابوريوسام!
+exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
+in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum, dolor sit amet consectetur
+adipisicing elit. Ipsum a, facere fugit error accusamus est officiis vero in, nostrum laboriosam corrupti
+explicabo, cumque repudiandae deleniti perspiciatis quae consectetur enim. Laboriosam!
