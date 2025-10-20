@@ -1263,8 +1263,6 @@
   </url><url>
     <loc>http://localhost:1313/french/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/ar/about/</loc>
-  </url><url>
     <loc>http://localhost:1313/ar/contact/</loc>
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
@@ -1620,5 +1618,7 @@
                 hreflang="ar"
                 href="http://localhost:1313/about/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/ar/about/</loc>
   </url>
 </urlset>
