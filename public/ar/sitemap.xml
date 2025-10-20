@@ -188,37 +188,11 @@
     <loc>http://localhost:1313/ar/course/course-5/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/course/course-5/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/course/course-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/course/course-5/"
-                />
-  </url><url>
     <loc>http://localhost:1313/english/course/course-5/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/ar/course/course-3/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/course/course-3/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/course/course-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/course/course-3/"
-                />
   </url><url>
     <loc>http://localhost:1313/english/course/course-3/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
@@ -589,18 +563,8 @@
     <loc>http://localhost:1313/ar/course/course-4/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/course/course-4/</loc>
+    <loc>http://localhost:1313/course/%D8%A7%D9%84%D8%A5%D9%85%D9%84%D8%A7/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/course/course-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/course/course-4/"
-                />
   </url><url>
     <loc>http://localhost:1313/english/course/course-4/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
@@ -626,19 +590,6 @@
   </url><url>
     <loc>http://localhost:1313/ar/course/course-2/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/course/course-2/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/course/course-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/course/course-2/"
-                />
   </url><url>
     <loc>http://localhost:1313/english/course/course-2/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
@@ -715,19 +666,6 @@
   </url><url>
     <loc>http://localhost:1313/ar/course/course-1/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/course/course-1/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/course/course-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/course/course-1/"
-                />
   </url><url>
     <loc>http://localhost:1313/english/course/course-1/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
@@ -880,18 +818,8 @@
     <loc>http://localhost:1313/ar/course/course-6/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/course/course-6/</loc>
+    <loc>http://localhost:1313/course/%D9%81%D9%82%D9%87/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/course/course-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/course/course-6/"
-                />
   </url><url>
     <loc>http://localhost:1313/english/course/course-6/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
@@ -980,6 +908,8 @@
   </url><url>
     <loc>http://localhost:1313/english/teacher/zim-cook/</loc>
   </url><url>
+    <loc>http://localhost:1313/ar/about/</loc>
+  </url><url>
     <loc>http://localhost:1313/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -991,7 +921,5 @@
                 hreflang="ar"
                 href="http://localhost:1313/about/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/ar/about/</loc>
   </url>
 </urlset>

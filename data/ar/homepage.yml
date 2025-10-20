@@ -1,7 +1,7 @@
 ################################# Slider #####################################
 slider:
   enable : true
-  bg_image : "images/banner/banner-1.jpg"
+  bg_image : "images/banner/img-1.jpg"
   slider_item:
     # slider item loop
     - title : "مستقبلك المشرق هو مهمتنا"
@@ -40,7 +40,7 @@ slider:
 ############################### Banner feature ###############################
 banner_feature:
   enable : true
-  image : "images/banner/banner-feature.png"
+  image : "images/banner/img-1.jpg"
   feature_item:
     # feature item loop
     - name : "أخبار المنح الدراسية"
@@ -67,7 +67,7 @@ banner_feature:
 about:
   enable : true
   title : "نبذة عن مدرسة ابن كثير الإسلامية"
-  image : "images/about/about-us.jpg"
+  image : "images/banner/img-3.jpg"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat
 
 
@@ -98,7 +98,7 @@ cta:
 ######################## Success story #############################
 success_story:
   enable : true
-  bg_image : "images/backgrounds/success-story.jpg"
+  bg_image : "images/banner/img-3.jpg"
   title : "قصص النجاح"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
             
@@ -122,19 +122,15 @@ funfacts:
   funfact_item:
     # funfact item loop
     - name : "المدرسون"
-      count : "60"
+      count : "13"
 
     # funfact item loop
-    - name : "الدورات"
-      count : "50"
+    - name : "الدروس"
+      count : "12"
 
     # funfact item loop
     - name : "طلاب"
-      count : "1000"
-
-    # funfact item loop
-    - name : "SATISFIED CLIENT"
-      count : "1400"
+      count : "800"
 
 # funfact is for about page
 
