@@ -17,27 +17,17 @@ name = "الصفحات"
 hasChildren = true
 
   [[main]]
-  parent = "Pages"
-  name = "المدرسين"
-  url = "teacher/"
-
-  [[main]]
-  parent = "Pages"
+  parent = "الصفحات"
   name = "ملاحظة"
   url = "notice/"
 
   [[main]]
-  parent = "Pages"
+  parent = "الصفحات"
   name = "الأحداث"
   url = "event/"
 
   [[main]]
-  parent = "Pages"
-  name = "منحة دراسية"
-  url = "scholarship/"
-
-  [[main]]
-  parent = "Pages"
+  parent = "الصفحات"
   name = "بحث علمي"
   url = "research/"
   
@@ -55,20 +45,12 @@ weight = 5
 # footer menu
 
 [[footer]]
-name = "المدرسين"
-url = "teacher/"
-
-[[footer]]
 name = "ملاحظة"
 url = "notice/"
 
 [[footer]]
 name = "الأحداث"
 url = "event/"
-
-[[footer]]
-name = "منحة دراسية"
-url = "scholarship/"
 
 [[footer]]
 name = "بحث علمي"

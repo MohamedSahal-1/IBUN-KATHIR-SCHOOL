@@ -705,16 +705,6 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/teacher/alex-rook/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/teacher/alex-rook/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/teacher/alex-rook/"
-                />
   </url><url>
     <loc>http://localhost:1313/en/author/</loc>
     <xhtml:link
@@ -729,88 +719,18 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/scholarship/scholarship-1/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/scholarship/scholarship-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/scholarship/scholarship-1/"
-                />
   </url><url>
     <loc>http://localhost:1313/en/scholarship/scholarship-2/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/scholarship/scholarship-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/scholarship/scholarship-2/"
-                />
   </url><url>
     <loc>http://localhost:1313/en/scholarship/scholarship-3/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/scholarship/scholarship-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/scholarship/scholarship-3/"
-                />
   </url><url>
     <loc>http://localhost:1313/en/teacher/clark-malik/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/teacher/clark-malik/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/teacher/clark-malik/"
-                />
   </url><url>
     <loc>http://localhost:1313/en/teacher/devid-luis/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/teacher/devid-luis/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/teacher/devid-luis/"
-                />
   </url><url>
     <loc>http://localhost:1313/en/teacher/duis-rio/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/teacher/duis-rio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/teacher/duis-rio/"
-                />
   </url><url>
     <loc>http://localhost:1313/en/teacher/jacke-mastio/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/teacher/jacke-mastio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/teacher/jacke-mastio/"
-                />
   </url><url>
     <loc>http://localhost:1313/en/author/john-doe/</loc>
     <xhtml:link
@@ -837,39 +757,9 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/teacher/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/teacher/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/teacher/"
-                />
   </url><url>
     <loc>http://localhost:1313/en/scholarship/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/scholarship/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/scholarship/"
-                />
   </url><url>
     <loc>http://localhost:1313/en/teacher/zim-cook/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/teacher/zim-cook/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/teacher/zim-cook/"
-                />
   </url>
 </urlset>
