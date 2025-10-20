@@ -137,6 +137,12 @@
                 href="http://localhost:1313/en/tags/ai/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/course/course-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/course/course-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/en/tags/automation/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -428,6 +434,9 @@
                 href="http://localhost:1313/en/research/research-6/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/course/course-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/en/blog/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -440,6 +449,9 @@
                 hreflang="en-us"
                 href="http://localhost:1313/en/blog/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/en/course/course-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/categories/mathmatics-learning/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
@@ -604,6 +616,9 @@
                 hreflang="en-us"
                 href="http://localhost:1313/en/notice/notice-6/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/en/course/course-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/about/</loc>
     <xhtml:link
