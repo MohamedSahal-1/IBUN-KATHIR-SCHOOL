@@ -938,13 +938,13 @@
     <loc>http://localhost:1313/fr/about/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/about/"
+                hreflang="en-us"
+                href="http://localhost:1313/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/about/"
+                hreflang="ar"
+                href="http://localhost:1313/about/"
                 />
     <xhtml:link
                 rel="alternate"

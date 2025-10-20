@@ -1263,23 +1263,6 @@
   </url><url>
     <loc>http://localhost:1313/french/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/fr/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/about/"
-                />
-  </url><url>
     <loc>http://localhost:1313/ar/about/</loc>
   </url><url>
     <loc>http://localhost:1313/ar/contact/</loc>
@@ -1619,6 +1602,23 @@
                 rel="alternate"
                 hreflang="ar"
                 href="http://localhost:1313/teacher/zim-cook/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/fr/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/about/"
                 />
   </url>
 </urlset>
