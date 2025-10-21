@@ -17,7 +17,7 @@ copyright = "Copyright &copy; 2025 a hugo theme by [Themefisher](https://themefi
 languageName = "العربية"
 languageCode = "ar"
 contentDir = "content/ar"
-weight = 3
+weight = 2
 languageDirection = "rtl"
 
 [languages.ar.params]

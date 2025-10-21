@@ -14,38 +14,12 @@ slider:
         label : "سجل الآن"
         link : "contact/"
 
-    # slider item loop
-    - title : "مستقبلك المشرق هو مهمتنا"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
-      animation_in : "left"
-      animation_out : "right"
-      # available animation : left, right, up, down
-      button:
-        enable : true
-        label : "سجل الآن"
-        link : "contact/"
-
-    # slider item loop
-    - title : "مستقبلك المشرق هو مهمتنا"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
-      animation_in : "left"
-      animation_out : "right"
-      # available animation : left, right, up, down
-      button:
-        enable : true
-        label : "سجل الآن"
-        link : "contact/"
-
 
 ############################### Banner feature ###############################
 banner_feature:
   enable : true
   image : "images/banner/img-1.jpg"
   feature_item:
-    # feature item loop
-    - name : "أخبار المنح الدراسية"
-      icon : "ti-book" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
 
     # feature item loop
     - name : "لوحة الإعلانات لدينا"
@@ -78,12 +52,7 @@ about:
     link : "about/"
 
 
-############################# Course ################################
-course:
-  enable : true
-  title : "دروسنا"
-  # course item comes from "content/**/course" folder.
-  
+
 
 ########################## Call to action ############################
 cta:
@@ -110,12 +79,6 @@ success_story:
   video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
 
 
-############################# event ################################
-event:
-  enable : true
-  title : "الأحداث القادمة"
-  # event item comes from "content/**/event" folder.
-
   
 ########################### funfacts ############################
 funfacts:
@@ -140,5 +103,5 @@ funfacts:
 ############################# blog ################################
 blog:
   enable : true
-  title : "أحدث الأخبار"
+  title : "آخر الأخبار"
   # blog item comes from "content/**/blog" folder.

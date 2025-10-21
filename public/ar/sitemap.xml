@@ -14,19 +14,6 @@
     <loc>http://localhost:1313/english/event/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/event/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/event/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/event/"
-                />
-  </url><url>
     <loc>http://localhost:1313/ar/event/event-1/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
   </url><url>
@@ -62,84 +49,6 @@
   </url><url>
     <loc>http://localhost:1313/english/event/event-6/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/event/event-1/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/event/event-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/event/event-1/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/event/event-2/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/event/event-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/event/event-2/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/event/event-3/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/event/event-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/event/event-3/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/event/event-4/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/event/event-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/event/event-4/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/event/event-5/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/event/event-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/event/event-5/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/event/event-6/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/event/event-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/event/event-6/"
-                />
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
@@ -476,84 +385,6 @@
     <loc>http://localhost:1313/english/research/research-6/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/research/research-1/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/research/research-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/research/research-1/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/research/research-2/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/research/research-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/research/research-2/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/research/research-3/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/research/research-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/research/research-3/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/research/research-4/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/research/research-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/research/research-4/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/research/research-5/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/research/research-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/research/research-5/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/research/research-6/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/research/research-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/research/research-6/"
-                />
-  </url><url>
     <loc>http://localhost:1313/english/course/course-4/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
@@ -619,19 +450,6 @@
   </url><url>
     <loc>http://localhost:1313/english/research/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/research/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/research/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/research/"
-                />
   </url><url>
     <loc>http://localhost:1313/english/course/course-1/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
