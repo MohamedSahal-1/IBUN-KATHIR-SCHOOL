@@ -35,17 +35,17 @@ banner_feature:
     # feature item loop
     - name : "لوحة الإعلانات لدينا"
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "في وقت قصير"
 
     # feature item loop
     - name : "إنجازاتنا"
       icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "في وقت قصير"
 
     # feature item loop
     - name : "سجل الآن"
       icon : "ti-write" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "اتبع التقويم"
 
 
 ############################## about ##################################
@@ -53,10 +53,7 @@ about:
   enable : true
   title : "نبذة عن مدرسة ابن كثير الإسلامية"
   image : "images/banner/img-3.jpg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat
-
-
-  cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem "
+  content : "تُعتبر جامعة قطر المؤسسة التعليمية الرئيسية للتعليم العالي في الدولة وذلك منذ تأسيسها عام 1977، حيث تقف اليوم كمنارةٍ للتميُّز الأكاديمي والبحث العلمي في المنطقة العربية "
   button:
     enable : true
     label : "تعلم أكثر"
@@ -79,11 +76,7 @@ success_story:
   enable : true
   bg_image : "images/banner/img-3.jpg"
   title : "قصص النجاح"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
-            
-            
-  ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+  content : "تُعتبر جامعة قطر المؤسسة التعليمية الرئيسية للتعليم العالي في الدولة وذلك منذ تأسيسها عام 1977، حيث تقف اليوم كمنارةٍ للتميُّز الأكاديمي والبحث العلمي في المنطقة العربية"
   # video link
   video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
 
@@ -109,8 +102,3 @@ funfacts:
 
 
 
-############################# blog ################################
-blog:
-  enable : true
-  title : "آخر الأخبار"
-  # blog item comes from "content/**/blog" folder.

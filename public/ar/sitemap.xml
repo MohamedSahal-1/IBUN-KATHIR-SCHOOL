@@ -670,23 +670,7 @@
     <loc>http://localhost:1313/english/course/%D9%86%D8%AD%D9%88/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ar/contact/</loc>
-  </url><url>
-    <loc>http://localhost:1313/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/contact/"
-                />
-  </url><url>
     <loc>http://localhost:1313/english/about/</loc>
-  </url><url>
-    <loc>http://localhost:1313/english/contact/</loc>
   </url><url>
     <loc>http://localhost:1313/author/</loc>
     <xhtml:link
@@ -699,6 +683,8 @@
                 hreflang="ar"
                 href="http://localhost:1313/author/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/english/contact/</loc>
   </url><url>
     <loc>http://localhost:1313/ar/author/john-doe/</loc>
   </url><url>
@@ -731,6 +717,20 @@
                 />
   </url><url>
     <loc>http://localhost:1313/english/author/mark-dinn/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ar/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/contact/"
+                />
   </url><url>
     <loc>http://localhost:1313/about/</loc>
     <xhtml:link
