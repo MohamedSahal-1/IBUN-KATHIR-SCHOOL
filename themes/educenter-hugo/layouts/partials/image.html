@@ -1,0 +1,5 @@
+{{- $src := .Src -}}
+{{- $alt := .Alt | default "image" -}}
+{{ if $src }}
+  <img src="{{ $src | relURL }}" alt="{{ $alt }}">
+{{ end }}

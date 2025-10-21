@@ -1,7 +1,7 @@
 
 
 ######################## default configuration ####################
-baseURL = "http://localhost:1313/"
+baseURL = "//localhost:1313/"
 title = "IBUN KATHIR ISLAMIC SCHOOL"
 theme = "educenter-hugo"
 defaultContentLanguage = "ar"
