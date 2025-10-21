@@ -4,7 +4,7 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # about image
-image: "images/banner/img-1.jpg"
+image: "images/ibun/img-1.png"
 # meta description
 description : "تُعتبر جامعة قطر المؤسسة التعليمية الرئيسية للتعليم العالي في الدولة وذلك منذ تأسيسها عام 1977، حيث تقف اليوم كمنارةٍ للتميُّز الأكاديمي والبحث العلمي في المنطقة العربية."
 ---

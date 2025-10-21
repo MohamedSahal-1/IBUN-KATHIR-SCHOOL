@@ -26,11 +26,7 @@ hasChildren = true
   name = "event"
   url = "event/"
 
-  
-[[main]]
-name = "blog"
-url = "blog/"
-weight = 4
+
   
 [[main]]
 name = "Contact"

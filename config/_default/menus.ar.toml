@@ -26,11 +26,6 @@ hasChildren = true
   name = "الأحداث"
   url = "event/"
 
-
-[[main]]
-name = "مدونة"
-url = "blog/"
-weight = 4
   
 [[main]]
 name = "اتصل بنا"
