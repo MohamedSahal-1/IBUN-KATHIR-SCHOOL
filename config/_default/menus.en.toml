@@ -26,11 +26,6 @@ hasChildren = true
   name = "event"
   url = "event/"
 
-
-  [[main]]
-  parent = "Pages"
-  name = "research"
-  url = "research/"
   
 [[main]]
 name = "blog"
@@ -55,6 +50,3 @@ name = "event"
 url = "event/"
 
 
-[[footer]]
-name = "research"
-url = "research/"

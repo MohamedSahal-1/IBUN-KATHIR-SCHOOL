@@ -26,11 +26,7 @@ hasChildren = true
   name = "الأحداث"
   url = "event/"
 
-  [[main]]
-  parent = "الصفحات"
-  name = "بحث علمي"
-  url = "research/"
-  
+
 [[main]]
 name = "مدونة"
 url = "blog/"
@@ -52,7 +48,5 @@ url = "notice/"
 name = "الأحداث"
 url = "event/"
 
-[[footer]]
-name = "بحث علمي"
-url = "research/"
+
 

@@ -5,7 +5,18 @@ slider:
   slider_item:
     # slider item loop
     - title : "مستقبلك المشرق هو مهمتنا"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+      content : "مهمتنا: نشر المعرفة في المجتمع"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "سجل الآن"
+        link : "contact/"
+
+     # slider item loop
+    - title : "مستقبلك المشرق هو مهمتنا"
+      content : "الرؤية: أن تكون المدرسة معروفة بنقل المعرفة والأخلاق الحميدة والمهارات للمجتمع"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -50,8 +61,6 @@ about:
     enable : true
     label : "تعلم أكثر"
     link : "about/"
-
-
 
 
 ########################## Call to action ############################

@@ -1,55 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>الرئيسية - مدرسة ابن كثير الإسلامية</title>
+    <title>مرحبا بكم في مدرسة ابن كثير الإسلامية</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on الرئيسية - مدرسة ابن كثير الإسلامية</description>
+    <description>Recent content on مرحبا بكم في مدرسة ابن كثير الإسلامية</description>
     <generator>Hugo</generator>
     <language>ar</language>
     <lastBuildDate>Sat, 09 Mar 2030 15:27:17 +0600</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Social media and behavior economics conference</title>
-      <link>http://localhost:1313/ar/event/event-1/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ar/event/event-1/</guid>
-      <description>&lt;h3 id=&#34;about-event&#34;&gt;About Event&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Social media and behavior economics conference</title>
-      <link>http://localhost:1313/ar/event/event-2/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ar/event/event-2/</guid>
-      <description>&lt;h3 id=&#34;about-event&#34;&gt;About Event&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Social media and behavior economics conference</title>
-      <link>http://localhost:1313/ar/event/event-3/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ar/event/event-3/</guid>
-      <description>&lt;h3 id=&#34;about-event&#34;&gt;About Event&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Social media and behavior economics conference</title>
-      <link>http://localhost:1313/ar/event/event-4/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ar/event/event-4/</guid>
-      <description>&lt;h3 id=&#34;about-event&#34;&gt;About Event&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Social media and behavior economics conference</title>
-      <link>http://localhost:1313/ar/event/event-5/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ar/event/event-5/</guid>
-      <description>&lt;h3 id=&#34;about-event&#34;&gt;About Event&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Social media and behavior economics conference</title>
-      <link>http://localhost:1313/ar/event/event-6/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ar/event/event-6/</guid>
-      <description>&lt;h3 id=&#34;about-event&#34;&gt;About Event&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Social media and behavior economics conference</title>
       <link>http://localhost:1313/english/event/event-1/</link>
@@ -91,20 +49,6 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/english/event/event-6/</guid>
       <description>&lt;h3 id=&#34;about-event&#34;&gt;About Event&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Algorithm</title>
-      <link>http://localhost:1313/english/course/course-5/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/english/course/course-5/</guid>
-      <description>&lt;h3 id=&#34;about-course&#34;&gt;About Course&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Artificial Intelligence</title>
-      <link>http://localhost:1313/english/course/course-3/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/english/course/course-3/</guid>
-      <description>&lt;h3 id=&#34;about-course&#34;&gt;About Course&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Elegant Light Box Paper Cut Dioramas</title>
@@ -233,150 +177,10 @@
       <description>&lt;h3 id=&#34;the-standard-lorem-ipsum-passage-used-since-the-1500s&#34;&gt;The standard Lorem Ipsum passage, used since the 1500s&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Geography</title>
-      <link>http://localhost:1313/ar/research/research-1/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/ar/research/research-1/</guid>
-      <description>&lt;h3 id=&#34;about-research&#34;&gt;About Research&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Geography</title>
-      <link>http://localhost:1313/ar/research/research-2/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/ar/research/research-2/</guid>
-      <description>&lt;h3 id=&#34;about-research&#34;&gt;About Research&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Geography</title>
-      <link>http://localhost:1313/ar/research/research-3/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/ar/research/research-3/</guid>
-      <description>&lt;h3 id=&#34;about-research&#34;&gt;About Research&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Geography</title>
-      <link>http://localhost:1313/ar/research/research-4/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/ar/research/research-4/</guid>
-      <description>&lt;h3 id=&#34;about-research&#34;&gt;About Research&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Geography</title>
-      <link>http://localhost:1313/ar/research/research-5/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/ar/research/research-5/</guid>
-      <description>&lt;h3 id=&#34;about-research&#34;&gt;About Research&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Geography</title>
-      <link>http://localhost:1313/ar/research/research-6/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/ar/research/research-6/</guid>
-      <description>&lt;h3 id=&#34;about-research&#34;&gt;About Research&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Geography</title>
-      <link>http://localhost:1313/english/research/research-1/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/english/research/research-1/</guid>
-      <description>&lt;h3 id=&#34;about-research&#34;&gt;About Research&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Geography</title>
-      <link>http://localhost:1313/english/research/research-2/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/english/research/research-2/</guid>
-      <description>&lt;h3 id=&#34;about-research&#34;&gt;About Research&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Geography</title>
-      <link>http://localhost:1313/english/research/research-3/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/english/research/research-3/</guid>
-      <description>&lt;h3 id=&#34;about-research&#34;&gt;About Research&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Geography</title>
-      <link>http://localhost:1313/english/research/research-4/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/english/research/research-4/</guid>
-      <description>&lt;h3 id=&#34;about-research&#34;&gt;About Research&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Geography</title>
-      <link>http://localhost:1313/english/research/research-5/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/english/research/research-5/</guid>
-      <description>&lt;h3 id=&#34;about-research&#34;&gt;About Research&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Geography</title>
-      <link>http://localhost:1313/english/research/research-6/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/english/research/research-6/</guid>
-      <description>&lt;h3 id=&#34;about-research&#34;&gt;About Research&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>JavaScript</title>
-      <link>http://localhost:1313/english/course/course-4/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/english/course/course-4/</guid>
-      <description>&lt;h3 id=&#34;about-course&#34;&gt;About Course&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mathematics</title>
-      <link>http://localhost:1313/english/course/course-2/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/english/course/course-2/</guid>
-      <description>&lt;h3 id=&#34;about-course&#34;&gt;About Course&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Photography</title>
-      <link>http://localhost:1313/english/course/course-1/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/english/course/course-1/</guid>
-      <description>&lt;h3 id=&#34;about-course&#34;&gt;About Course&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Teaching Materials and Testing Methods</title>
       <link>http://localhost:1313/ar/notice/notice-1/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       <guid>http://localhost:1313/ar/notice/notice-1/</guid>
-      <description>&lt;h3 id=&#34;about-notice&#34;&gt;About Notice&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Teaching Materials and Testing Methods</title>
-      <link>http://localhost:1313/ar/notice/notice-2/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/ar/notice/notice-2/</guid>
-      <description>&lt;h3 id=&#34;about-notice&#34;&gt;About Notice&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Teaching Materials and Testing Methods</title>
-      <link>http://localhost:1313/ar/notice/notice-3/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/ar/notice/notice-3/</guid>
-      <description>&lt;h3 id=&#34;about-notice&#34;&gt;About Notice&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Teaching Materials and Testing Methods</title>
-      <link>http://localhost:1313/ar/notice/notice-4/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/ar/notice/notice-4/</guid>
-      <description>&lt;h3 id=&#34;about-notice&#34;&gt;About Notice&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Teaching Materials and Testing Methods</title>
-      <link>http://localhost:1313/ar/notice/notice-5/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/ar/notice/notice-5/</guid>
-      <description>&lt;h3 id=&#34;about-notice&#34;&gt;About Notice&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Teaching Materials and Testing Methods</title>
-      <link>http://localhost:1313/ar/notice/notice-6/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/ar/notice/notice-6/</guid>
       <description>&lt;h3 id=&#34;about-notice&#34;&gt;About Notice&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
     </item>
     <item>
@@ -388,87 +192,10 @@
     </item>
     <item>
       <title>Teaching Materials and Testing Methods</title>
-      <link>http://localhost:1313/english/notice/notice-2/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/english/notice/notice-2/</guid>
-      <description>&lt;h3 id=&#34;about-notice&#34;&gt;About Notice&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Teaching Materials and Testing Methods</title>
-      <link>http://localhost:1313/english/notice/notice-3/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/english/notice/notice-3/</guid>
-      <description>&lt;h3 id=&#34;about-notice&#34;&gt;About Notice&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Teaching Materials and Testing Methods</title>
-      <link>http://localhost:1313/english/notice/notice-4/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/english/notice/notice-4/</guid>
-      <description>&lt;h3 id=&#34;about-notice&#34;&gt;About Notice&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Teaching Materials and Testing Methods</title>
-      <link>http://localhost:1313/english/notice/notice-5/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/english/notice/notice-5/</guid>
-      <description>&lt;h3 id=&#34;about-notice&#34;&gt;About Notice&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Teaching Materials and Testing Methods</title>
-      <link>http://localhost:1313/english/notice/notice-6/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/english/notice/notice-6/</guid>
-      <description>&lt;h3 id=&#34;about-notice&#34;&gt;About Notice&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Teaching Materials and Testing Methods</title>
       <link>http://localhost:1313/notice/notice-1/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       <guid>http://localhost:1313/notice/notice-1/</guid>
       <description>&lt;h3 id=&#34;about-notice&#34;&gt;About Notice&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Teaching Materials and Testing Methods</title>
-      <link>http://localhost:1313/notice/notice-2/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/notice/notice-2/</guid>
-      <description>&lt;h3 id=&#34;about-notice&#34;&gt;About Notice&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Teaching Materials and Testing Methods</title>
-      <link>http://localhost:1313/notice/notice-3/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/notice/notice-3/</guid>
-      <description>&lt;h3 id=&#34;about-notice&#34;&gt;About Notice&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Teaching Materials and Testing Methods</title>
-      <link>http://localhost:1313/notice/notice-4/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/notice/notice-4/</guid>
-      <description>&lt;h3 id=&#34;about-notice&#34;&gt;About Notice&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Teaching Materials and Testing Methods</title>
-      <link>http://localhost:1313/notice/notice-5/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/notice/notice-5/</guid>
-      <description>&lt;h3 id=&#34;about-notice&#34;&gt;About Notice&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Teaching Materials and Testing Methods</title>
-      <link>http://localhost:1313/notice/notice-6/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/notice/notice-6/</guid>
-      <description>&lt;h3 id=&#34;about-notice&#34;&gt;About Notice&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vlogging</title>
-      <link>http://localhost:1313/english/course/course-6/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/english/course/course-6/</guid>
-      <description>&lt;h3 id=&#34;about-course&#34;&gt;About Course&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
     </item>
     <item>
       <title>الإملا</title>
@@ -485,17 +212,17 @@
       <description>&lt;h3 id=&#34;عن-الدرس&#34;&gt;عن الدرس&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>الدعاء</title>
-      <link>http://localhost:1313/ar/course/%D8%A7%D9%84%D8%AF%D8%B9%D8%A7%D8%A1/</link>
+      <title>الإملا</title>
+      <link>http://localhost:1313/english/course/%D8%A7%D9%84%D8%A5%D9%85%D9%84%D8%A7/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/ar/course/%D8%A7%D9%84%D8%AF%D8%B9%D8%A7%D8%A1/</guid>
+      <guid>http://localhost:1313/english/course/%D8%A7%D9%84%D8%A5%D9%85%D9%84%D8%A7/</guid>
       <description>&lt;h3 id=&#34;عن-الدرس&#34;&gt;عن الدرس&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
     </item>
     <item>
       <title>الدعاء</title>
-      <link>http://localhost:1313/ar/course/%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85/</link>
+      <link>http://localhost:1313/ar/course/%D8%A7%D9%84%D8%AF%D8%B9%D8%A7%D8%A1/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/ar/course/%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85/</guid>
+      <guid>http://localhost:1313/ar/course/%D8%A7%D9%84%D8%AF%D8%B9%D8%A7%D8%A1/</guid>
       <description>&lt;h3 id=&#34;عن-الدرس&#34;&gt;عن الدرس&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
     </item>
     <item>
@@ -507,9 +234,30 @@
     </item>
     <item>
       <title>الدعاء</title>
+      <link>http://localhost:1313/english/course/%D8%A7%D9%84%D8%AF%D8%B9%D8%A7%D8%A1/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <guid>http://localhost:1313/english/course/%D8%A7%D9%84%D8%AF%D8%B9%D8%A7%D8%A1/</guid>
+      <description>&lt;h3 id=&#34;عن-الدرس&#34;&gt;عن الدرس&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>القرآن الكريم</title>
+      <link>http://localhost:1313/ar/course/%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <guid>http://localhost:1313/ar/course/%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85/</guid>
+      <description>&lt;h3 id=&#34;عن-الدرس&#34;&gt;عن الدرس&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>القرآن الكريم</title>
       <link>http://localhost:1313/course/%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       <guid>http://localhost:1313/course/%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85/</guid>
+      <description>&lt;h3 id=&#34;عن-الدرس&#34;&gt;عن الدرس&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>القرآن الكريم</title>
+      <link>http://localhost:1313/english/course/%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <guid>http://localhost:1313/english/course/%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85/</guid>
       <description>&lt;h3 id=&#34;عن-الدرس&#34;&gt;عن الدرس&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
     </item>
     <item>
@@ -527,6 +275,13 @@
       <description>&lt;h3 id=&#34;عن-الدرس&#34;&gt;عن الدرس&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>تجويد</title>
+      <link>http://localhost:1313/english/course/%D8%AA%D8%AC%D9%88%D9%8A%D8%AF/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <guid>http://localhost:1313/english/course/%D8%AA%D8%AC%D9%88%D9%8A%D8%AF/</guid>
+      <description>&lt;h3 id=&#34;عن-الدرس&#34;&gt;عن الدرس&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>تفسير</title>
       <link>http://localhost:1313/ar/course/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
@@ -538,6 +293,13 @@
       <link>http://localhost:1313/course/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       <guid>http://localhost:1313/course/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1/</guid>
+      <description>&lt;h3 id=&#34;عن-الدرس&#34;&gt;عن الدرس&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>تفسير</title>
+      <link>http://localhost:1313/english/course/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <guid>http://localhost:1313/english/course/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1/</guid>
       <description>&lt;h3 id=&#34;عن-الدرس&#34;&gt;عن الدرس&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
     </item>
     <item>
@@ -555,6 +317,13 @@
       <description>&lt;h3 id=&#34;عن-الدرس&#34;&gt;عن الدرس&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>توحيد</title>
+      <link>http://localhost:1313/english/course/%D8%AA%D9%88%D8%AD%D9%8A%D8%AF/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <guid>http://localhost:1313/english/course/%D8%AA%D9%88%D8%AD%D9%8A%D8%AF/</guid>
+      <description>&lt;h3 id=&#34;عن-الدرس&#34;&gt;عن الدرس&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>حديث</title>
       <link>http://localhost:1313/ar/course/%D8%AD%D8%AF%D9%8A%D8%AB/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
@@ -566,6 +335,13 @@
       <link>http://localhost:1313/course/%D8%AD%D8%AF%D9%8A%D8%AB/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       <guid>http://localhost:1313/course/%D8%AD%D8%AF%D9%8A%D8%AB/</guid>
+      <description>&lt;h3 id=&#34;عن-الدرس&#34;&gt;عن الدرس&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>حديث</title>
+      <link>http://localhost:1313/english/course/%D8%AD%D8%AF%D9%8A%D8%AB/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <guid>http://localhost:1313/english/course/%D8%AD%D8%AF%D9%8A%D8%AB/</guid>
       <description>&lt;h3 id=&#34;عن-الدرس&#34;&gt;عن الدرس&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
     </item>
     <item>
@@ -583,6 +359,13 @@
       <description>&lt;h3 id=&#34;عن-الدرس&#34;&gt;عن الدرس&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>خط</title>
+      <link>http://localhost:1313/english/course/%D8%AE%D8%B7/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <guid>http://localhost:1313/english/course/%D8%AE%D8%B7/</guid>
+      <description>&lt;h3 id=&#34;عن-الدرس&#34;&gt;عن الدرس&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>سيرة</title>
       <link>http://localhost:1313/ar/course/%D8%B3%D9%8A%D8%B1%D8%A9/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
@@ -594,6 +377,13 @@
       <link>http://localhost:1313/course/%D8%B3%D9%8A%D8%B1%D8%A9/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       <guid>http://localhost:1313/course/%D8%B3%D9%8A%D8%B1%D8%A9/</guid>
+      <description>&lt;h3 id=&#34;عن-الدرس&#34;&gt;عن الدرس&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>سيرة</title>
+      <link>http://localhost:1313/english/course/%D8%B3%D9%8A%D8%B1%D8%A9/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <guid>http://localhost:1313/english/course/%D8%B3%D9%8A%D8%B1%D8%A9/</guid>
       <description>&lt;h3 id=&#34;عن-الدرس&#34;&gt;عن الدرس&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
     </item>
     <item>
@@ -611,6 +401,13 @@
       <description>&lt;h3 id=&#34;عن-الدرس&#34;&gt;عن الدرس&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>صرف</title>
+      <link>http://localhost:1313/english/course/%D8%B5%D8%B1%D9%81/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <guid>http://localhost:1313/english/course/%D8%B5%D8%B1%D9%81/</guid>
+      <description>&lt;h3 id=&#34;عن-الدرس&#34;&gt;عن الدرس&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>فقه</title>
       <link>http://localhost:1313/ar/course/%D9%81%D9%82%D9%87/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
@@ -622,6 +419,13 @@
       <link>http://localhost:1313/course/%D9%81%D9%82%D9%87/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       <guid>http://localhost:1313/course/%D9%81%D9%82%D9%87/</guid>
+      <description>&lt;h3 id=&#34;عن-الدرس&#34;&gt;عن الدرس&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>فقه</title>
+      <link>http://localhost:1313/english/course/%D9%81%D9%82%D9%87/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <guid>http://localhost:1313/english/course/%D9%81%D9%82%D9%87/</guid>
       <description>&lt;h3 id=&#34;عن-الدرس&#34;&gt;عن الدرس&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
     </item>
     <item>
@@ -639,60 +443,11 @@
       <description>&lt;h3 id=&#34;عن-الدرس&#34;&gt;عن الدرس&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Alex Rook</title>
-      <link>http://localhost:1313/english/teacher/alex-rook/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/english/teacher/alex-rook/</guid>
-      <description>&lt;h3 id=&#34;about-me&#34;&gt;About Me&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut&#xA;labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>CHEMICAL ENGINEERING</title>
-      <link>http://localhost:1313/english/scholarship/scholarship-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/english/scholarship/scholarship-1/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;institutes&lt;/li&gt;&#xA;&lt;li&gt;Smart-affiliated research&lt;/li&gt;&#xA;&lt;li&gt;Digital Access to Scholarship&lt;/li&gt;&#xA;&lt;li&gt;Smart Catalyst&lt;/li&gt;&#xA;&lt;li&gt;Smart Library Portal&lt;/li&gt;&#xA;&lt;li&gt;Smart research programs&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>CHEMICAL ENGINEERING</title>
-      <link>http://localhost:1313/english/scholarship/scholarship-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/english/scholarship/scholarship-2/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;institutes&lt;/li&gt;&#xA;&lt;li&gt;Smart-affiliated research&lt;/li&gt;&#xA;&lt;li&gt;Digital Access to Scholarship&lt;/li&gt;&#xA;&lt;li&gt;Smart Catalyst&lt;/li&gt;&#xA;&lt;li&gt;Smart Library Portal&lt;/li&gt;&#xA;&lt;li&gt;Smart research programs&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>CHEMICAL ENGINEERING</title>
-      <link>http://localhost:1313/english/scholarship/scholarship-3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/english/scholarship/scholarship-3/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;institutes&lt;/li&gt;&#xA;&lt;li&gt;Smart-affiliated research&lt;/li&gt;&#xA;&lt;li&gt;Digital Access to Scholarship&lt;/li&gt;&#xA;&lt;li&gt;Smart Catalyst&lt;/li&gt;&#xA;&lt;li&gt;Smart Library Portal&lt;/li&gt;&#xA;&lt;li&gt;Smart research programs&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Clark Malik</title>
-      <link>http://localhost:1313/english/teacher/clark-malik/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/english/teacher/clark-malik/</guid>
-      <description>&lt;h3 id=&#34;about-me&#34;&gt;About Me&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut&#xA;labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Devid Luis</title>
-      <link>http://localhost:1313/english/teacher/devid-luis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/english/teacher/devid-luis/</guid>
-      <description>&lt;h3 id=&#34;about-me&#34;&gt;About Me&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut&#xA;labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Duis Rio</title>
-      <link>http://localhost:1313/english/teacher/duis-rio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/english/teacher/duis-rio/</guid>
-      <description>&lt;h3 id=&#34;about-me&#34;&gt;About Me&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut&#xA;labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Jacke Mastio</title>
-      <link>http://localhost:1313/english/teacher/jacke-mastio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/english/teacher/jacke-mastio/</guid>
-      <description>&lt;h3 id=&#34;about-me&#34;&gt;About Me&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut&#xA;labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.&lt;/p&gt;</description>
+      <title>نحو</title>
+      <link>http://localhost:1313/english/course/%D9%86%D8%AD%D9%88/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <guid>http://localhost:1313/english/course/%D9%86%D8%AD%D9%88/</guid>
+      <description>&lt;h3 id=&#34;عن-الدرس&#34;&gt;عن الدرس&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et&#xA;dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&#xA;commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#xA;nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit&#xA;anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque&#xA;laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae&#xA;dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&#xA;consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem&#xA;ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut&#xA;labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
     </item>
     <item>
       <title>John doe</title>
@@ -735,13 +490,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/english/author/mark-dinn/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.&#xA;Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Zim Cook</title>
-      <link>http://localhost:1313/english/teacher/zim-cook/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/english/teacher/zim-cook/</guid>
-      <description>&lt;h3 id=&#34;about-me&#34;&gt;About Me&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut&#xA;labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

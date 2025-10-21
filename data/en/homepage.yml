@@ -5,7 +5,7 @@ slider:
   slider_item:
     # slider item loop
     - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+      content : "MISSION: To impart knowledge to the community."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -14,37 +14,43 @@ slider:
         label : "Apply now"
         link : "contact/"
 
+    # slider item loop
+    - title : "Your bright future is our mission"
+      content : "VISION: To make the school to be known for imparting knowledge, good morals, and skills to the community."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Apply now"
+        link : "contact/"
 
 ############################### Banner feature ###############################
 banner_feature:
   enable : true
   image : "images/banner/banner-feature.png"
   feature_item:
-    # feature item loop
-    - name : "Scholorship News"
-      icon : "ti-book" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
 
     # feature item loop
     - name : "Our Notice Board"
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "IN SHORT TIME "
 
     # feature item loop
     - name : "Our Achievements"
       icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "IN SHORT TIME "
 
     # feature item loop
     - name : "Admission Now"
       icon : "ti-write" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "FOLLOW THE CALLANDER"
 
 
 ############################## about ##################################
 about:
   enable : true
-  title : "About Educenter"
+  title : "About Ibun Kathir Islamic School"
   image : "images/about/about-us.jpg"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat
 
@@ -54,13 +60,6 @@ about:
     enable : true
     label : "Learn more"
     link : "about/"
-
-
-############################# Course ################################
-course:
-  enable : true
-  title : "Our Course"
-  # course item comes from "content/**/course" folder.
 
 ########################## Call to action ############################
 cta:
@@ -86,13 +85,6 @@ success_story:
   # video link
   video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
 
-
-############################# event ################################
-event:
-  enable : true
-  title : "Upcoming Events"
-  # event item comes from "content/**/event" folder.
-
   
 ########################### funfacts ############################
 funfacts:
@@ -100,19 +92,15 @@ funfacts:
   funfact_item:
     # funfact item loop
     - name : "TEACHERS"
-      count : "60"
+      count : "13"
 
     # funfact item loop
     - name : "COURSES"
-      count : "50"
+      count : "12"
 
     # funfact item loop
     - name : "STUDENTS"
-      count : "1000"
-
-    # funfact item loop
-    - name : "SATISFIED CLIENT"
-      count : "1400"
+      count : "800"
 
 # funfact is for about page
 
