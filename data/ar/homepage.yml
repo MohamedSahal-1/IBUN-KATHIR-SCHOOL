@@ -52,7 +52,7 @@ banner_feature:
 about:
   enable : true
   title : "نبذة عن مدرسة ابن كثير الإسلامية"
-  image : "images/ibun/img-3.png"
+  image : "images/ibun/img-8.png"
   content : "تُعتبر جامعة قطر المؤسسة التعليمية الرئيسية للتعليم العالي في الدولة وذلك منذ تأسيسها عام 1977، حيث تقف اليوم كمنارةٍ للتميُّز الأكاديمي والبحث العلمي في المنطقة العربية "
   button:
     enable : true
