@@ -2,7 +2,7 @@
 title: "عن المدرسة"
 draft: false
 # page title background image
-bg_image: "/images/ibun/img-12.jpg"
+bg_image: "/images/ibun/img-1.jpg"
 # about image
 image: "/images/ibun/img-8.png"
 # meta description
