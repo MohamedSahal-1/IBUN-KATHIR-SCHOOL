@@ -21,12 +21,6 @@ hasChildren = true
   name = "notice"
   url = "notice/"
 
-  [[main]]
-  parent = "Pages"
-  name = "event"
-  url = "event/"
-
-
   
 [[main]]
 name = "Contact"
@@ -40,9 +34,5 @@ weight = 5
 [[footer]]
 name = "notice"
 url = "notice/"
-
-[[footer]]
-name = "event"
-url = "event/"
 
 

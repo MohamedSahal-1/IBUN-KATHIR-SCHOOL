@@ -33,9 +33,6 @@ weight = 5
 name = "ملاحظة"
 url = "notice/"
 
-[[footer]]
-name = "الأحداث"
-url = "event/"
 
 
 
