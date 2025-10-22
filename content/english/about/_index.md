@@ -2,9 +2,9 @@
 title: "About Us"
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "/images/backgrounds/page-title.jpg"
 # about image
-image: "images/ibun/img-1.png"
+image: "/images/ibun/img-1.png"
 # meta description
 description : "Qatar University has been the country's premier institution of higher education since its founding in 1977, and today stands as a beacon of academic excellence and scientific research in the Arab region."
 ---
