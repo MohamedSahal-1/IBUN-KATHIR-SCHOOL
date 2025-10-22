@@ -25,7 +25,7 @@ shortname = 'themefisher-template' # we use disqus to show comments in blog post
 
 #################### default parameters ################################
 [params]
-logo = "images/ibunlogo3.png"
+logo = "images/ibunlogo.png"
 # Meta data
 description = "This is meta description"
 author = "Ibunkathir"

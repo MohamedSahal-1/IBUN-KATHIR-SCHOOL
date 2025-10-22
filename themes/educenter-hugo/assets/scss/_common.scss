@@ -412,3 +412,14 @@ textarea.form-control{
   width: 85px;
   object-fit: cover;
 }
+
+/* === Footer Logo Size Fix === */
+.logo-footer img {
+  max-width: 120px;   /* istediğin kadar küçült/büyüt (örnek: 80px - 150px arası) */
+  height: auto;
+}
+
+.logo-footer img {
+  max-width: 120px !important;
+  height: auto !important;
+}
