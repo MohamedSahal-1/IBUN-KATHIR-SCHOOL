@@ -2,7 +2,7 @@
 slider:
   enable : true
  # bg_image : "images/banner/img-1.jpg"
-  bg_image : "images/banner/banner-1.jpg"
+  bg_image : "images/ibun/img-10.jpg"
 
   slider_item:
     # slider item loop
@@ -76,7 +76,7 @@ cta:
 ######################## Success story ##############################
 success_story:
   enable : true
-  bg_image : "images/ibun/img-1.png"
+  bg_image : "images/ibun/img-12.jpg"
   title : "قصص النجاح"
   content : "تُعتبر جامعة قطر المؤسسة التعليمية الرئيسية للتعليم العالي في الدولة وذلك منذ تأسيسها عام 1977، حيث تقف اليوم كمنارةٍ للتميُّز الأكاديمي والبحث العلمي في المنطقة العربية"
   # video link

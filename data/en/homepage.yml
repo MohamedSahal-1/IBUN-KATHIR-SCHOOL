@@ -1,7 +1,7 @@
 ################################# Slider #####################################
 slider:
   enable : true
-  bg_image : "images/banner/siyad.jpeg"
+  bg_image : "images/ibun/img-10.jpg"
   slider_item:
     # slider item loop
     - title : "Your bright future is our mission cool"
@@ -52,7 +52,7 @@ about:
   enable : true
   title : "About Ibun Kathir Islamic School"
  
-  image : "images/ibun/img-1.png"
+  image : "images/ibun/img-8.png"
   content : "Qatar University has been the country's premier institution of higher education since its founding in 1977, and today stands as a beacon of academic excellence and scientific research in the Arab region. "
   button:
     enable : true
@@ -73,7 +73,7 @@ cta:
 ######################## Success story #############################
 success_story:
   enable : true
-  bg_image : "images/ibun/img-1.png"
+  bg_image : "images/ibun/img-12.jpg"
   title : "Success Stories"
   content : "Qatar University has been the country's premier institution of higher education since its founding in 1977, and today stands as a beacon of academic excellence and scientific research in the Arab region."
   # video link
