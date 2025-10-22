@@ -21,12 +21,6 @@ hasChildren = true
   name = "ملاحظة"
   url = "notice/"
 
-  [[main]]
-  parent = "الصفحات"
-  name = "الأحداث"
-  url = "event/"
-
-  
 [[main]]
 name = "اتصل بنا"
 url = "contact/"
