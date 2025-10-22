@@ -71,7 +71,7 @@ cta:
     link : "contact/"
 
 
-######################## Success story #############################
+######################## Success story ##############################
 success_story:
   enable : true
   bg_image : "images/ibun/img-1.png"
