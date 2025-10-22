@@ -266,12 +266,12 @@
     "ids": [
       "1914-translation-by-h-rackham",
       "about-event",
+      "about-ibun-khathir-islamic-school",
       "about-notice",
-      "about-the-school",
       "ar",
       "disqus_thread",
       "en",
-      "faculty-and-staff",
+      "excellence-in-education-since-1977",
       "fees-and-funding",
       "js-cookie-box",
       "js-cookie-button",
@@ -281,15 +281,21 @@
       "message",
       "name",
       "navigation",
+      "our-journey",
+      "our-legacy",
+      "our-mission",
+      "our-vision",
       "requirements",
-      "school-students",
       "section-11033-of-de-finibus-bonorum-et-malorum-written-by-cicero-in-45-bc",
       "select-language",
       "subject",
       "the-standard-lorem-ipsum-passage-used-since-the-1500s",
-      "أعضاء-هيئة-التدريس-والموظفين",
-      "طلاب-المدرسة",
-      "عن-المدرسة"
+      "إرثنا",
+      "تميز-في-التعليم-منذ-عام-١٩٧٧",
+      "رؤيتنا",
+      "رحلتنا",
+      "رسالتنا",
+      "نبذة-عن-مدرسة-ابن-كثير-الإسلامية"
     ]
   }
 }

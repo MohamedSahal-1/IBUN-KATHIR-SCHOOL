@@ -15,7 +15,7 @@ copyright = " &copy; 2025 Ibun Kathir Islamic School All Rights Reserved | Desig
 ################################### Arabic language #####################################
 [languages.ar]
 languageName = "العربية"
-languageCode = "Ar"
+languageCode = "ar"
 contentDir = "content/ar"
 weight = 2
 languageDirection = "rtl"
@@ -23,4 +23,5 @@ languageDirection = "rtl"
 [languages.ar.params]
 home = "الرئيسية"
 # copyright
-copyright = " &copy; 2025 Ibun Kathir Islamic School All Rights Reserved | Designed by [gamuun dhijitaal](https://gamuun.com/)"
+copyright = "&copy; جميع الحقوق محفوظة لمدرسة ابن كثير الإسلامية 2025 | سياسة الخصوصية | عناوين الاتصال"
+

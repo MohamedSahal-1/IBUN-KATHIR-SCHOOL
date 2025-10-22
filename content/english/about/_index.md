@@ -2,34 +2,34 @@
 title: "About Us"
 draft: false
 # page title background image
-bg_image: "/images/backgrounds/page-title.jpg"
+bg_image: "/images/ibun/img-12.jpg"
 # about image
-image: "/images/ibun/img-1.png"
+image: "/images/ibun/img-8.png"
 # meta description
-description : "Qatar University has been the country's premier institution of higher education since its founding in 1977, and today stands as a beacon of academic excellence and scientific research in the Arab region."
+description : "Founded in 1977 by the late Sheik Adam Abdul Mumin, Ibun Khathir Islamic School has built a proud legacy of academic excellence and character development. Located in Awoshie Abrantie, Accra, the school has served generations of students with a commitment to high-quality education, discipline, and personal growth."
 ---
 
-## About the School
-Qatar University has been the country's premier institution of higher education since its founding in 1977, and today stands as a beacon of academic excellence and scientific research in the Arab region.
+## About Ibun Khathir Islamic School
 
-The university is committed to providing high-quality education in various scientific fields of national priority. To achieve this commitment, the university aims to apply the latest international standards and implement best academic practices across its programs and colleges. As a result, Qatar University has successfully pursued academic accreditation initiatives from various leading international accreditation bodies.
+Founded: 1977
+Location: Awoshie Abrantie, Accra, Ghana
 
-The university comprises 12 colleges: the College of Arts and Sciences, the College of Business and Economics, the College of Education, the College of Engineering, the College of Health Sciences, the College of Law, the College of Medicine, the College of Nursing, the College of Pharmacy, the College of Sharia and Islamic Studies, the College of Sport Sciences, and the College of Dentistry.
+## Excellence in Education Since 1977
 
-The university offers a wide range of academic programs, comprising 51 undergraduate and 53 graduate programs, all of which meet the needs of the Qatari community.
+Founded in 1977 by the late Sheik Adam Abdul Mumin, Ibun Khathir Islamic School has built a proud legacy of academic excellence and character development. Located in Awoshie Abrantie, Accra, the school has served generations of students with a commitment to high-quality education, discipline, and personal growth.
 
-Qatar University has continued its efforts to develop a culture of scientific research. The university's research complex houses 18 distinguished research centers working on more than 500 collaborative research projects in more than 130 countries.
+## Our Journey
 
-Community engagement is at the core of Qatar University's mission and vision. The university is committed to ensuring a rich campus environment that encourages academic excellence, volunteerism, civic responsibility, and leadership.
+What began as a small community school with a few classrooms and dedicated learners has grown into a respected educational institution known for its strong academic standards and nurturing environment. Over the decades, Ibun Khathir Islamic School has continuously evolved — expanding its facilities, enhancing teaching methods, and integrating modern educational practices while maintaining a deep respect for its heritage and founding values.
 
-Qatar University works to advance its goal of becoming a leader in economic and social development in the State of Qatar through collaboration and partnerships with government, industry, academia, business, and civil society in Qatar and abroad.
+## Our Mission
 
-## School Students:
-Qatar University enrolls approximately 23,000 students in its various academic programs. Students are offered numerous unique opportunities and challenges to ensure they take full advantage of all available opportunities. These opportunities include participation in national competitions in Qatar and international conferences, exclusive scholarships and study abroad opportunities, student exchange programs, and research participation opportunities.
+Our mission is to provide a well-balanced education that inspires students to think critically, act responsibly, and strive for excellence. We aim to develop confident and compassionate individuals who are prepared to lead and contribute positively to society.
 
-In addition to academic support, the university also focuses on supporting students' professional development. Each student has access to a wealth of resources that facilitate their success in every aspect of their university life, making it a rich and enjoyable experience. These services and support include:
+## Our Vision
 
-A campus that has won numerous architectural design awards, allowing for easy access and movement, and includes numerous amenities and facilities. A modern library with a wide range of knowledge, science, software, digital databases, and scientific journals, along with the ability to request a trial of numerous scientific resources and databases. The latest software and communication tools facilitate access to courses and faculty. Fully equipped and furnished student activity buildings and facilities facilitate student interactions, familiarization, friendly communication, and collaborative work. A Student Learning Support Center. To assist in understanding courses, extracurricular activities, and workshops to enhance and refine students' skills. The Student Counseling Center is an important and advanced resource for students who wish to discuss or raise issues related to themselves, including family planning, personal management, adjusting to university life, and any other issues related to them. Student restaurants offer a wide and varied menu of food and beverages that cater to dietary needs and some health requirements. University-sponsored events, trips, and various activities to enhance student life and encourage student communication and interaction with faculty members.
+We envision a future where every Ibun Khathir student is equipped with the knowledge, skills, and values needed to succeed in an ever-changing world — becoming lifelong learners and responsible global citizens.
 
-## Faculty and Staff:
-Qatar University proudly hosts a distinguished group of carefully selected faculty members, including international experts as well as the best national minds in the State of Qatar. Each faculty member boasts unparalleled research expertise and dedication to teaching students. They have a genuine desire to collaborate and share their ideas, knowledge, and experiences with others, responding to the needs of the community and the region while contributing to the realization of Qatar's National Vision.
+## Our Legacy
+
+The legacy of our founder, the late Sheik Adam Abdul Mumin, continues to guide us. His dedication to education and community development remains at the heart of everything we do. Today, Ibun Khathir Islamic School stands as a symbol of opportunity, growth, and excellence — a place where learning shapes lives and values build futures.
