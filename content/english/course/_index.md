@@ -2,7 +2,7 @@
 title: "Our Courses"
 draft: false
 # page title background image
-bg_image: "/images/backgrounds/page-title.jpg"
+bg_image: "/images/ibun/img-12.jpg"
 # meta description
 description : "Here are the courses we give to our students"
 ---

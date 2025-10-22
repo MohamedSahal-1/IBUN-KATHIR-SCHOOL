@@ -8,7 +8,7 @@ weight = 1
 [en.params]
 home = "Home"
 # copyright
-copyright = " &copy; 2025 Ibun Kathir Islamic School All Rights Reserved | Designed by [gamuun dhijitaal](https://gamuun.com/)"
+copyright = " &copy; 2025 Ibun Kathir School All Rights Reserved | Designed by [gamuun dhijitaal](https://gamuun.com/)"
 
 
 
@@ -23,5 +23,5 @@ languageDirection = "rtl"
 [languages.ar.params]
 home = "الرئيسية"
 # copyright
-copyright = "&copy; جميع الحقوق محفوظة لمدرسة ابن كثير الإسلامية 2025 | سياسة الخصوصية | عناوين الاتصال"
+copyright = " &copy; جميع الحقوق محفوظة لمدرسة ابن كثير الإسلامية 2025"
 
