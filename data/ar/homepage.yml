@@ -1,7 +1,9 @@
 ################################# Slider #####################################
 slider:
   enable : true
-  bg_image : "images/banner/img-1.jpg"
+ # bg_image : "images/banner/img-1.jpg"
+  bg_image : "images/banner/banner-1.jpg"
+
   slider_item:
     # slider item loop
     - title : "مستقبلك المشرق هو مهمتنا"
