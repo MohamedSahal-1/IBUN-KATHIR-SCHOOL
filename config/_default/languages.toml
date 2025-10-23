@@ -13,15 +13,15 @@ copyright = " &copy; 2025 Ibun Kathir School All Rights Reserved | Designed by [
 
 
 ################################### Arabic language #####################################
-[languages.ar]
+[ar]
 languageName = "العربية"
 languageCode = "ar"
 contentDir = "content/ar"
 weight = 2
 languageDirection = "rtl"
 
-[languages.ar.params]
+[ar.params]
 home = "الرئيسية"
 # copyright
-copyright = " &copy; جميع الحقوق محفوظة لمدرسة ابن كثير الإسلامية 2025"
+copyright = " &copy; جميع الحقوق محفوظة لمدرسة ابن كثير الإسلامية 2025 | Designed by [gamuun dhijitaal](https://gamuun.com/)"
 

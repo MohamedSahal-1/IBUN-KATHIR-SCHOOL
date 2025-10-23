@@ -32,11 +32,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="languages"
-                href="http://localhost:1313/languages/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/en/"
                 />
@@ -99,11 +94,6 @@
                 rel="alternate"
                 hreflang="ar"
                 href="http://localhost:1313/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="languages"
-                href="http://localhost:1313/languages/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -351,11 +341,6 @@
                 rel="alternate"
                 hreflang="ar"
                 href="http://localhost:1313/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="languages"
-                href="http://localhost:1313/languages/tags/"
                 />
     <xhtml:link
                 rel="alternate"
