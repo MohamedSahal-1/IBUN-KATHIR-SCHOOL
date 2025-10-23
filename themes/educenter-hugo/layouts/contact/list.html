@@ -13,7 +13,7 @@
         <form action="{{ site.Params.contact_form_action | safeURL }}" method="POST">
           <input type="text" class="form-control mb-3" id="name" name="name" placeholder="Full Name">
           <input type="email" class="form-control mb-3" id="mail" name="mail" placeholder="Email">
-          <input type="email" class="form-control mb-3" id="mail" name="mail" placeholder="Phone number">
+          <input type="number" class="form-control mb-3" id="phone" name="phone" placeholder="Phone number">
           <input type="text" class="form-control mb-3" id="subject" name="subject" placeholder="Subject">
           <textarea name="message" id="message" class="form-control mb-3" placeholder="Your Message"></textarea>
           <!-- Success page next hidden input -->
