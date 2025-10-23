@@ -146,14 +146,14 @@ link = "https://www.instagram.com/ibun_kathir_islamic_school/"
 [languages.ar]
 languageName = "العربية"
 weight = 1
-title = "مرحبا بكم في مدرسة ابن كثير الإسلامية"
+title = "مرحبا بكم في مدرسة ابن كثير"
 contentDir = "content/ar"
 languageDirection = "rtl"
 
 [languages.en]
 languageName = "English"
 weight = 2
-title = "Welcome to IKIS | Ibun Kathir Islamic School"
+title = "Welcome to IKIS | Ibun Kathir School"
 contentDir = "content/en"
 
 
