@@ -34,7 +34,7 @@ address = "Awoshie, Ghana"
 mobile = "+233 50 078 5143"
 email = "info@ibunkathirsch.com"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://getform.io/f/bkkpwekb" # contact form works with https://formspree.io
 # Google Analitycs
 google_analitycs_id = "" # your id
 # top header
