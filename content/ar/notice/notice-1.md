@@ -3,9 +3,9 @@ title: "Teaching Materials and Testing Methods"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
-bg_image: "/images/ibun/img-12.jpg"
+bg_image: "/images/ibun/notice1.png"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "اجتماع مجلس أولياء الأمور والمعلمين"
 # notice download link
 download_link : "#"
 # type
@@ -13,38 +13,18 @@ type: "notice"
 ---
 
 
-### About Notice
+مدرسة ابن كثير الإسلامية
+### اجتماع مجلس أولياء الأمور والمعلمين
+التاريخ: ٢٥/٠١/٢٠٢٦
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+يُعلم جميع أولياء الأمور وأولياء الأمور أن اجتماع مجلس أولياء الأمور والمعلمين سيُعقد يوم السبت الموافق ٢٥ يناير ٢٠٢٦، الساعة العاشرة صباحًا، في قاعة المدرسة. حضوركم مهم للغاية ونشجعه بشدة.
 
-### Requirements
+يهدف هذا الاجتماع إلى تعزيز التعاون بين أولياء الأمور والمدرسة، بما يُسهم في تطوير طلابنا أكاديميًا وأخلاقيًا واجتماعيًا. خلال الاجتماع، سيُقدم المعلمون تحديثات حول أداء الطلاب، وأنشطتهم الصفية، وانضباطهم، وتقدمهم الدراسي بشكل عام. كما ستُتاح لأولياء الأمور فرصة التفاعل المباشر مع المعلمين لمناقشة نقاط قوة أبنائهم والجوانب التي قد تحتاج إلى تحسين.
 
+سيتم مناقشة أمور مهمة، مثل الامتحانات القادمة، والبرامج اللاصفية، وسياسات المدرسة، والمشاريع التعليمية المُخطط لها لهذا الفصل. ونرحب ترحيبًا حارًا باقتراحات أولياء الأمور وملاحظاتهم البناءة بشأن تطوير المدرسة. سيكون هذا الاجتماع أيضًا بمثابة منصة لتبادل الأفكار الجماعية التي من شأنها أن تُسهم في تحسين بيئة التعلم ونجاح الطلاب.
 
+بالإضافة إلى ذلك، سيتم الإعلان عن مبادرات وتحسينات جديدة لدعم التطور الأكاديمي والشخصي. سيتم إطلاع أولياء الأمور على سبل دعم التعلم في المنزل، وتعزيز السلوك الجيد، وتشجيع المسؤولية لدى الطلاب. ستتضمن الجلسة جلسة أسئلة وأجوبة لمناقشة أي استفسارات أو توضيحات قد تكون لدى أولياء الأمور.
 
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
+في ضوء ما سبق، يُرجى من جميع أولياء الأمور الالتزام بالحضور والمشاركة بفعالية، لأن القرارات المتخذة خلال الاجتماع ستُفيد مسيرة طفلكم التعليمية. نتطلع إلى تعاونكم الكامل ومساهمتكم القيّمة.
 
-
-### Fees and Funding
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+الحضور **مهم**
