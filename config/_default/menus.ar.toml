@@ -27,6 +27,11 @@ name = "المدرسين"
 url = "teacher/"
 
 [[main]]
+parent = "المدرسين"
+name = "Aishatu Abdul-Aziz"
+url = "teacher/aishatu-abdul-aziz/"
+
+[[main]]
 name = "اتصل بنا"
 url = "contact/"
 weight = 5
