@@ -18,6 +18,11 @@ hasChildren = true
 
 [[main]]
 parent = "Pages"
+name = "teacher"
+url = "teacher/"
+
+[[main]]
+parent = "Pages"
 name = "notice"
 url = "notice/"
 
@@ -34,4 +39,6 @@ weight = 5
 name = "notice"
 url = "notice/"
 
-
+[[footer]]
+name = "teacher"
+url = "teacher/"
