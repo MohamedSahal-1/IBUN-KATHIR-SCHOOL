@@ -17,9 +17,39 @@ name = "Pages"
 hasChildren = true
 
 [[main]]
-parent = "Pages"
-name = "teacher"
-url = "teacher/"
+weight = 4
+name = "Teachers"
+hasChildren = true
+
+[[main]]
+parent = "Teachers"
+name = "Aishatu Abdul-Aziz"
+url = "teacher/aishatu-abdul-aziz/"
+
+[[main]]
+parent = "Teachers"
+name = "Attik Uthman"
+url = "teacher/attik-uthman/"
+
+[[main]]
+parent = "Teachers"
+name = "Uthman, Ibrahim Danwa "
+url = "teacher/uthman-ibrahim-danwa/"
+
+[[main]]
+parent = "Teachers"
+name = "Firdaws Abbas"
+url = "teacher/firdaws-abbas/"
+
+[[main]]
+parent = "Teachers"
+name = "Sumaiyatu Ibrahim"
+url = "teacher/sumaiyatu-ibrahim/"
+
+[[main]]
+parent = "Teachers"
+name = "Mardiya yussif"
+url = "teacher/yussif-mardiya/"
 
 [[main]]
 parent = "Pages"
@@ -39,6 +69,4 @@ weight = 5
 name = "notice"
 url = "notice/"
 
-[[footer]]
-name = "teacher"
-url = "teacher/"
+

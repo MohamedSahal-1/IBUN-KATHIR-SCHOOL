@@ -21,11 +21,40 @@ parent = "الصفحات"
 name = "ملاحظة"
 url = "notice/"
 
+[[main]]
+weight = 4
+name = "المدرسين"
+hasChildren = true
 
 [[main]]
 parent = "المدرسين"
 name = "Aishatu Abdul-Aziz"
 url = "teacher/aishatu-abdul-aziz/"
+
+[[main]]
+parent = "المدرسين"
+name = "Attik Uthman"
+url = "teacher/attik-uthman/"
+
+[[main]]
+parent = "المدرسين"
+name = "Uthman, Ibrahim Danwa "
+url = "teacher/uthman-ibrahim-danwa/"
+
+[[main]]
+parent = "المدرسين"
+name = "Firdaws Abbas"
+url = "teacher/firdaws-abbas/"
+
+[[main]]
+parent = "المدرسين"
+name = "Sumaiyatu Ibrahim"
+url = "teacher/sumaiyatu-ibrahim/"
+
+[[main]]
+parent = "المدرسين"
+name = "Mardiya yussif"
+url = "teacher/yussif-mardiya/"
 
 [[main]]
 name = "اتصل بنا"
@@ -39,9 +68,6 @@ weight = 5
 name = "ملاحظة"
 url = "notice/"
 
-[[footer]]
-name = "المدرسين"
-url = "teacher/"
 
 
 
