@@ -16,12 +16,11 @@ weight = 3
 name = "Pages"
 hasChildren = true
 
-  [[main]]
-  parent = "Pages"
-  name = "notice"
-  url = "notice/"
+[[main]]
+parent = "Pages"
+name = "notice"
+url = "notice/"
 
-  
 [[main]]
 name = "Contact"
 url = "contact/"

@@ -16,10 +16,10 @@ weight = 3
 name = "الصفحات"
 hasChildren = true
 
-  [[main]]
-  parent = "الصفحات"
-  name = "ملاحظة"
-  url = "notice/"
+[[main]]
+parent = "الصفحات"
+name = "ملاحظة"
+url = "notice/"
 
 [[main]]
 name = "اتصل بنا"

@@ -1,6 +1,6 @@
 ---
-title: "Teaching Materials and Testing Methods"
-date: 2026-01-25T15:27:17+06:00
+title: "اجتماع مجلس أولياء الأمور والمعلمين"
+date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "/images/ibun/notice1.png"
