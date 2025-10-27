@@ -51,6 +51,12 @@ parent = "Teachers"
 name = "Mardiya yussif"
 url = "teacher/yussif-mardiya/"
 
+
+[[main]]
+parent = "Teachers"
+name = " Issahak Suleman "
+url = "teacher/issahak-suleman/"
+
 [[main]]
 parent = "Pages"
 name = "notice"

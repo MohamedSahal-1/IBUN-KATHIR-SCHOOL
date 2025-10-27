@@ -1,12 +1,12 @@
 ---
-title: "Firdaws Abbas"
+title: " Issahak Suleman "
 draft: false
 # page title background image
 bg_image: "images/ibun/img-12.jpg"
 # meta description
 #description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
 # teacher portrait
-image: "images/ibun/firdaws2.jpg"
+#image: "images/ibun/firdaws2.jpg"
 # course
 #course: "Vlogging"
 # biography
@@ -16,14 +16,14 @@ image: "images/ibun/firdaws2.jpg"
 # contact info
 contact:
   # contact item loop
-  - name : "abbasfirdaws5@gmail.com"
+  - name : "gbanhaissahak@gmail.com"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:abbasfirdaws5@gmail.com"
+    link : "mailto:gbanhaissahak@gmail.com"
 
   # contact item loop
-  - name : "+233 256464685"
+  - name : "+233 599104100"
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link : "tel:+233 256464685"
+    link : "tel:+233 599104100"
 
  # contact item loop
   #- name : "Clark Malik"
@@ -57,6 +57,4 @@ type: "teacher"
 
 ### About Me
 
-My name is Firdaws Abbas ,am 23years of age 
-I stay at Awoshie Abrantie 
-Am a trader and one of the staffs in IBN KATHIR ISLAMIC SCHOOL as a teacher.
+I'm from a village call Tumu,a student of Arabic and Islamic studies located at Nima

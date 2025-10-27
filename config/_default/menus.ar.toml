@@ -57,6 +57,11 @@ name = "Mardiya yussif"
 url = "teacher/yussif-mardiya/"
 
 [[main]]
+parent = "المدرسين"
+name = " Issahak Suleman "
+url = "teacher/issahak-suleman/"
+
+[[main]]
 name = "اتصل بنا"
 url = "contact/"
 weight = 5
