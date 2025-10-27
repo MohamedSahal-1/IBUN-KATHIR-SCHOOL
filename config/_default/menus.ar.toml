@@ -21,10 +21,6 @@ parent = "الصفحات"
 name = "ملاحظة"
 url = "notice/"
 
-[[main]]
-parent = "الصفحات"
-name = "المدرسين"
-url = "teacher/"
 
 [[main]]
 parent = "المدرسين"
