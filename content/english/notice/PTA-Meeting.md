@@ -6,7 +6,7 @@ draft: false
 bg_image: "/images/ibun/img-12.jpg"
 # meta description
 description : "Parent–Teacher Association (PTA) Meeting."
-image: "/images/ibun/notice1.png"
+image: "images/ibun/notice1.jpg"
 # notice download link
 # download_link : "#"
 # type
