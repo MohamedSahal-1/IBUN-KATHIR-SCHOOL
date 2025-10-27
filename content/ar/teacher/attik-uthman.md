@@ -4,11 +4,11 @@ draft: false
 # page title background image
 bg_image: "images/ibun/img-12.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+#description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
 # teacher portrait
 image: "images/ibun/attik.jpg"
 # course
-course: "Vlogging"
+#course: "Vlogging"
 # biography
 # bio: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
 # interest
@@ -16,39 +16,39 @@ interest: ["Computer Networking","Computer Security","Human Computer Interfacing
 # contact info
 contact:
   # contact item loop
-  - name : "clarkmalik@email.com"
+  - name : "AttikUthman700@gmail.com"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:clarkmalik@email.com"
+    link : "mailto:AttikUthman700@gmail.com"
 
   # contact item loop
-  - name : "+12 034 5876"
+  - name : "+233 246309644"
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link : "tel:+120345876"
+    link : "tel:+233 246309644"
 
   # contact item loop
-  - name : "Clark Malik"
-    icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
-    link : "#"
+  #- name : "Clark Malik"
+    #icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
+   # link : "#"
 
   # contact item loop
-  - name : "Clark Malik"
-    icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
-    link : "#"
+ # - name : "Clark Malik"
+ #   icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
+ #   link : "#"
 
   # contact item loop
-  - name : "Clark Malik"
-    icon : "ti-skype" # icon pack : https://themify.me/themify-icons
-    link : "#"
+ # - name : "Clark Malik"
+ #   icon : "ti-skype" # icon pack : https://themify.me/themify-icons
+ #   link : "#"
 
   # contact item loop
-  - name : "clarkmalik.com"
-    icon : "ti-world" # icon pack : https://themify.me/themify-icons
-    link : "#"
+#  - name : "clarkmalik.com"
+ #   icon : "ti-world" # icon pack : https://themify.me/themify-icons
+ #   link : "#"
 
   # contact item loop
-  - name : "1313 Boulevard Cremazie,Quebec"
-    icon : "ti-location-pin" # icon pack : https://themify.me/themify-icons
-    link : "#"
+ # - name : "1313 Boulevard Cremazie,Quebec"
+ #   icon : "ti-location-pin" # icon pack : https://themify.me/themify-icons
+ #   link : "#"
 
 # type
 type: "teacher"
@@ -56,9 +56,10 @@ type: "teacher"
 
 ### About Me
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.
+عتيق عثمان خريج هندسة مدنية متفانٍ ومتعدد المواهب، يعمل حاليًا مهندس موقع ومسؤول صيانة بدوام جزئي في مركز اقرأ التعليمي. يتمتع بحسٍّ قوي بالمسؤولية وقدرة مثبتة على الأداء الفعال تحت الضغط، مما يُضفي على دوره المهني خبرةً فنيةً ومنهجًا عمليًا.
 
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto.
+بالإضافة إلى واجباته الهندسية، يلتزم عتيق التزامًا عميقًا بالتعليم الإسلامي. يُدرّس بانتظام في مسجد أوشي المركزي خلال أمسيات أيام الأسبوع (من الاثنين إلى الخميس) وفي عطلات نهاية الأسبوع في مدرسة ابن كثير الإسلامية، حيث يُعدّ أيضًا خريجًا فخورًا. يعكس شغفه بالتدريس وخدمة المجتمع تفانيه في التعلم مدى الحياة والتطور الروحي.
+
+يقيم عتيق في أوشي أبرانتي، ويتمتع بخلفية تعليمية متميزة. بدأ مسيرته الأكاديمية في مدرسة بليسد آمي جاردن، ثم تابع دراسته في مدرسة ويسلي جرامر الثانوية، ثم تابع تعليمه العالي في جامعة أكرا التقنية، حيث صقل مهاراته في الهندسة المدنية.
+
+يعكس مساره المهني المتعدد الأوجه مزيجًا فريدًا من الكفاءة التقنية والالتزام التعليمي والمشاركة المجتمعية.
