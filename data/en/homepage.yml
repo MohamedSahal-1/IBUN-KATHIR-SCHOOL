@@ -34,7 +34,7 @@ banner_feature:
     # feature item loop
     - name : "Our Notice Board"
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "[Parent–Teacher Association (PTA) Meeting](https://ibunkathirsch.com/en/notice/)"
+      content : "[Parent–Teacher Association (PTA) Meeting](https://ibunkathirsch.com/en/pta-meeting/)"
 
     # feature item loop
     - name : "Our Achievements"
