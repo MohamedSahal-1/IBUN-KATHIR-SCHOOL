@@ -22,6 +22,11 @@ name = "ملاحظة"
 url = "notice/"
 
 [[main]]
+parent = "الصفحات"
+name = "المدرسين"
+url = "teacher/"
+
+[[main]]
 name = "اتصل بنا"
 url = "contact/"
 weight = 5
@@ -33,6 +38,9 @@ weight = 5
 name = "ملاحظة"
 url = "notice/"
 
+[[footer]]
+name = "المدرسين"
+url = "teacher/"
 
 
 
