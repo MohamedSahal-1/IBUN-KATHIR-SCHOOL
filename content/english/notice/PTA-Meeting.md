@@ -14,7 +14,7 @@ type: "notice"
 ---
 
 
-IBUN KHATHIR ISLAMIC SCHOOL
+IBUN KATHIR ISLAMIC SCHOOL
 ### Parent–Teacher Association (PTA) Meeting
 Date: 25/01/2026
 
