@@ -7,8 +7,8 @@ bg_image: "images/ibun/img-12.jpg"
 #description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
 # teacher portrait
 image: "images/ibun/attik2.jpg"
-# course
-#course: "Vlogging"
+## course
+# course: "Vlogging"
 # biography
 # bio: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
 # interest
@@ -16,7 +16,7 @@ image: "images/ibun/attik2.jpg"
 # contact info
 contact:
   # contact item loop
-  - name : "AttikUthman700@gmail.com"
+  - name : "attikthman700@gmail.com"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
     link : "mailto:AttikUthman700@gmail.com"
 

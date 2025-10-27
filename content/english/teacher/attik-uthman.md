@@ -7,16 +7,16 @@ bg_image: "images/ibun/img-12.jpg"
 #description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
 # teacher portrait
 image: "images/ibun/attik2.jpg"
-# course
-#course: "Vlogging"
+## course
+# course: "Vlogging"
 # biography
 # bio: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
 # interest
-#interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
+# interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info
 contact:
   # contact item loop
-  - name : "AttikUthman700@gmail.com"
+  - name : "attikthman700@gmail.com"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
     link : "mailto:AttikUthman700@gmail.com"
 
@@ -56,10 +56,10 @@ type: "teacher"
 
 ### About Me
 
-Attik Uthman is a dedicated and versatile civil engineering graduate currently serving as a Site Engineer and part-time Maintenance Officer at Iqra Educational Center. With a strong sense of responsibility and a proven ability to perform effectively under pressure, he brings both technical expertise and a hands-on approach to his professional role.
+عتيق عثمان خريج هندسة مدنية متفانٍ ومتعدد المواهب، يعمل حاليًا مهندس موقع ومسؤول صيانة بدوام جزئي في مركز اقرأ التعليمي. يتمتع بحسٍّ قوي بالمسؤولية وقدرة مثبتة على الأداء الفعال تحت الضغط، مما يُضفي على دوره المهني خبرةً فنيةً ومنهجًا عمليًا.
 
-In addition to his engineering duties, Attik is deeply committed to Islamic education. He teaches regularly at the Awoshie Central Mosque during weekday evenings (Monday to Thursday) and on weekends at Ibun Kathir Islamic School, where he is also a proud alumnus. His passion for teaching and community service reflects his dedication to lifelong learning and spiritual development.
+بالإضافة إلى واجباته الهندسية، يلتزم عتيق التزامًا عميقًا بالتعليم الإسلامي. يُدرّس بانتظام في مسجد أوشي المركزي خلال أمسيات أيام الأسبوع (من الاثنين إلى الخميس) وفي عطلات نهاية الأسبوع في مدرسة ابن كثير الإسلامية، حيث يُعدّ أيضًا خريجًا فخورًا. يعكس شغفه بالتدريس وخدمة المجتمع تفانيه في التعلم مدى الحياة والتطور الروحي.
 
-Attik resides in Awoshie Abrantie and has an impressive educational background. He began his academic journey at Blessed Amy’s Garden, continued at Wesley Grammar Senior High School, and later pursued higher education at Accra Technical University, where he honed his skills in civil engineering.
+يقيم عتيق في أوشي أبرانتي، ويتمتع بخلفية تعليمية متميزة. بدأ مسيرته الأكاديمية في مدرسة بليسد آمي جاردن، ثم تابع دراسته في مدرسة ويسلي جرامر الثانوية، ثم تابع تعليمه العالي في جامعة أكرا التقنية، حيث صقل مهاراته في الهندسة المدنية.
 
-His multifaceted career path reflects a unique blend of technical proficiency, educational commitment, and community involvement.
+يعكس مساره المهني المتعدد الأوجه مزيجًا فريدًا من الكفاءة التقنية والالتزام التعليمي والمشاركة المجتمعية.
