@@ -3,9 +3,10 @@ title: "Parent–Teacher Association (PTA) Meeting"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
-bg_image: "/images/ibun/notice1.png"
+bg_image: "/images/ibun/img-12.jpg"
 # meta description
 description : "Parent–Teacher Association (PTA) Meeting."
+image: "/images/ibun/notice1.png"
 # notice download link
 # download_link : "#"
 # type
