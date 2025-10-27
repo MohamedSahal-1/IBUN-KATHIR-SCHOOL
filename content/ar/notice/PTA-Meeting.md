@@ -7,7 +7,7 @@ bg_image: "/images/ibun/notice1.png"
 # meta description
 description : "اجتماع مجلس أولياء الأمور والمعلمين"
 # notice download link
-download_link : "#"
+# download_link : "#"
 # type
 type: "notice"
 ---

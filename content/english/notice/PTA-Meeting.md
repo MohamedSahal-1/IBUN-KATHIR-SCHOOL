@@ -7,7 +7,7 @@ bg_image: "/images/ibun/notice1.png"
 # meta description
 description : "Parent–Teacher Association (PTA) Meeting."
 # notice download link
-download_link : "#"
+# download_link : "#"
 # type
 type: "notice"
 ---
