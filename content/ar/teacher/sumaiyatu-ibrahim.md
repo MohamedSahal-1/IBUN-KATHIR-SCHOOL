@@ -55,14 +55,13 @@ contact:
 type: "teacher"
 ---
 
-### About Me
+### عني
+:سومياتو إبراهيم
 
-Biography  Sumaiyatu Ibrahim
+اسمي سومياتو إبراهيم، وُلدت في 15 يونيو في أكرا، غانا. أدرس حاليًا في جامعة غانا لتكنولوجيا الاتصالات، وأسعى للحصول على درجة البكالوريوس في الأمن السيبراني
 
-My name is Sumaiyatu Ibrahim, born on 15th June in Accra, Ghana. I am currently a student at Ghana Communication Technology University, pursuing a Bachelor’s Degree in Cyber Security.
+بدأت رحلتي التعليمية في مدرسة أنديز أكاديمي الإعدادية، حيث أكملت بنجاح امتحان شهادة التعليم الأساسي (BECE). ثم تابعت دراستي في مدرسة أكرا الثانوية للبنات، حيث نما لديّ شغف كبير بتكنولوجيا المعلومات والأمن الرقمي. ألهمني هذا الشغف لدراسة الأمن السيبراني على المستوى الجامعي، بهدف المساهمة في المشهد التكنولوجي والأمني ​​المتنامي في غانا
 
-I began my educational journey at Andys Academy Junior High School, where I successfully completed my Basic Education Certificate Examination (BECE). I furthered my studies at Accra Girls’ Senior High School, where I developed a keen interest in information technology and digital security. This passion inspired my decision to study Cyber Security at the university level, with the goal of contributing to Ghana’s growing technology and security landscape.
+كطالبة، ألتزم بالتعلم المستمر والنمو الشخصي. أستمتع باستكشاف أفكار جديدة، وتطوير مهارات حل المشكلات، ومواكبة أحدث التوجهات التكنولوجية. أطمح لأن أصبح خبيرة ماهرة في الأمن السيبراني، ملتزمة بتعزيز السلامة الرقمية والابتكار والاستخدام المسؤول للتكنولوجيا
 
-As a student, I am committed to continuous learning and personal growth. I enjoy exploring new ideas, developing problem-solving skills, and keeping up with emerging trends in technology. I aspire to become a skilled cyber security professional dedicated to promoting digital safety, innovation, and responsible technology use.
-
-I believe that education, hard work, and curiosity are powerful tools for change, and I am determined to apply these values throughout my academic and professional journey.
+أعتقد أن التعليم والعمل الجاد والفضول هي أدوات قوية للتغيير، وأنا مصمم على تطبيق هذه القيم طوال رحلتي الأكاديمية والمهنية

@@ -55,6 +55,6 @@ contact:
 type: "teacher"
 ---
 
-### About Me
+### عني
 
-Ibrahim, a young practicing Muslim who’s well informed and adherent to Islamic values. Studied Islamic studies at Al-Azhariya Islamic
+إبراهيم، شاب مسلم ملتزم، مثقف، ملتزم بالقيم الإسلامية. درس الدراسات الإسلامية في جامعة الأزهر

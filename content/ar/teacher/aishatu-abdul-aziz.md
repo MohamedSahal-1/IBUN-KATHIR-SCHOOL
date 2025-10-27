@@ -54,6 +54,6 @@ contact:
 type: "teacher"
 ---
 
-### About Me
+### عني
 
-A graduate at Kwame Nkrumah University of Science and Technology
+خريج جامعة كوامي نكروما للعلوم والتكنولوجيا                        

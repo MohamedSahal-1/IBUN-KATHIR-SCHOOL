@@ -55,8 +55,8 @@ contact:
 type: "teacher"
 ---
 
-### About Me
+### عني
 
-My name is Firdaws Abbas ,am 23years of age 
-I stay at Awoshie Abrantie 
-Am a trader and one of the staffs in IBN KATHIR ISLAMIC SCHOOL as a teacher.
+اسمي فردوس عباس، عمري ٢٣ عامًا
+أقيم في أوشي أبرانتي
+أعمل تاجرًا، وأعمل مُدرسًا في مدرسة ابن كثير الإسلامية

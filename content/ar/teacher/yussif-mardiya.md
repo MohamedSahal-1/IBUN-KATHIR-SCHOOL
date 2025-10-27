@@ -55,8 +55,8 @@ contact:
 type: "teacher"
 ---
 
-### About Me
+### نبذة عني
 
-My name is Mardiya yussif 
-Am 25 yrs of age,
-Am into fashion and of thé staffs of Ibun Kathir Islamic School as a teacher
+اسمي مرضية يوسف
+عمري ٢٥ عامًا
+أهتم بالموضة، وأعمل مُدرّسة في مدرسة ابن كثير الإسلامية

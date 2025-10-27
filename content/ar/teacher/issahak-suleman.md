@@ -55,6 +55,6 @@ contact:
 type: "teacher"
 ---
 
-### About Me
+### عني
 
-I'm from a village call Tumu,a student of Arabic and Islamic studies located at Nima
+أنا من قرية تومو، طالبة في قسم اللغة العربية والدراسات الإسلامية في نيما
