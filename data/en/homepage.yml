@@ -4,7 +4,7 @@ slider:
   bg_image : "images/ibun/img-10.jpg"
   slider_item:
     # slider item loop
-    - title : "Your bright future is our mission cool"
+    - title : "Your bright future is our mission"
       content : "MISSION: To impart knowledge to the community."
       animation_in : "left"
       animation_out : "right"
