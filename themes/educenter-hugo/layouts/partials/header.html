@@ -9,6 +9,7 @@
           <ul class="list-inline">
             {{ range site.Params.social }}
             <li class="list-inline-item mx-0"><a class="d-inline-block p-2 text-color" href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
+            <li><a href="/admission/" class="text-sm font-semibold text-primary hover:underline">Admission</a></li>
             {{ end }}
           </ul>
         </div>
@@ -19,7 +20,6 @@
             <li class="list-inline-item">
               <a class="text-color" href="mailto:{{ site.Params.email }}"><strong>{{ i18n "email" | upper }} : </strong> {{ site.Params.email }}</a></li>
               <li><a href="/admission/" class="text-sm font-semibold text-primary hover:underline">Admission</a></li>
-
           </ul>
         </div>
       </div>
