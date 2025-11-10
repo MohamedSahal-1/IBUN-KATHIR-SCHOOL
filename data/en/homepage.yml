@@ -86,15 +86,15 @@ funfacts:
   funfact_item:
     # funfact item loop
     - name : "TEACHERS"
-      count : "13+"
+      count : "13"
 
     # funfact item loop
     - name : "COURSES"
-      count : "12+"
+      count : "12"
 
     # funfact item loop
     - name : "STUDENTS"
-      count : "800+"
+      count : "800"
 
 # funfact is for about page
 
