@@ -9,19 +9,9 @@
           <ul class="list-inline">
             {{ range site.Params.social }}
             <li class="list-inline-item mx-0"><a class="d-inline-block p-2 text-color" href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
-            <li class="list-inline-item mx-0"><a href="/admission/" class="text-sm font-semibold text-primary hover:underline">Admission</a></li>
-            </ul>
-        </div>
-        {{ end }}
-        <div class="top-header py-2 bg-white">
-    <div class="container">
-      <div class="row no-gutters align-items-center">
-        <div class="col-lg-4 text-center text-lg-left">
-          <ul>
-            <li class="list-inline-item mx-0"><a href="/admission/" class="text-sm font-semibold text-primary hover:underline">Admission</a></li>
+            {{ end }}
           </ul>
         </div>
-        {{ end }}
         <div class="col-lg-8 text-center text-lg-right">
           <ul class="list-inline">
             <li class="list-inline-item">
