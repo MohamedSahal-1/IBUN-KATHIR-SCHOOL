@@ -67,6 +67,12 @@ name = "Contact"
 url = "contact/"
 weight = 5
 
+[[main]]
+name = "Admission"
+url = "admission/"
+weight = 6
+
+
 
 # footer menu
 
@@ -76,3 +82,7 @@ name = "notice"
 url = "notice/"
 
 
+[[footer]]
+name = "Admission"
+url = "admission/"
+weight = 6

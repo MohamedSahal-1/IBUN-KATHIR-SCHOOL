@@ -66,6 +66,12 @@ name = "اتصل بنا"
 url = "contact/"
 weight = 5
 
+[[main]]
+name = "Admission"
+url = "admission/"
+weight = 6
+
+
 
 # footer menu
 
@@ -73,6 +79,10 @@ weight = 5
 name = "ملاحظة"
 url = "notice/"
 
+[[footer]]
+name = "Admission"
+url = "admission/"
+weight = 6
 
 
 
