@@ -38,6 +38,7 @@ banner_feature:
     - name : "لوحة الإعلانات لدينا"
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
       content : "[اجتماع مجلس أولياء الأمور والمعلمين](https://ibunkathirsch.com/notice/pta-meeting/)"
+      content : 
 
     # feature item loop
     - name : "إنجازاتنا"
