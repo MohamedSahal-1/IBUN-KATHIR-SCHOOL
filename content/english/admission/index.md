@@ -4,5 +4,5 @@ layout: "admission"
 # page title background image
 bg_image: "/images/ibun/img-12.jpg"
 # meta description
-description : "Founded in 1977 by the late Sheik Adam Abdul Mumin, Ibun Khathir Islamic School has built a proud legacy of academic excellence and character development. Located in Awoshie Abrantie, Accra, the school has served generations of students with a commitment to high-quality education, discipline, and personal growth."
+description : "Dear Students and Parents, Please note that school will not be held on Saturday and Sunday. Classes will now take place from Monday to Friday only. Thank you for your understanding."
 ---
