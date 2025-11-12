@@ -5,7 +5,7 @@ slider:
   slider_item:
     # slider item loop
     - title : "Your bright future is our mission"
-      content : "MISSION: To impart knowledge to the community."
+      content : "MISSION: To impact knowledge to the community."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
