@@ -1,6 +1,6 @@
 ---
 title: "Wearing School Uniform"
-date: 2025-11-12T15:27:17+06:00
+date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "/images/ibun/img-12.jpg"
