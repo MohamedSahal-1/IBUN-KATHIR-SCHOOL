@@ -4,4 +4,4 @@ layout: "admission"
 # page title background image
 bg_image: "/images/ibun/img-12.jpg"
 # meta description
-description : "Dear Students and Parents, Please note that school will not be held on Saturday and Sunday. Classes will now take place from Monday to Friday only. Thank you for your understanding."
+description : "طلابنا الأعزاء وأولياء أموركم، يُرجى العلم بأن الدراسة لن تُعقد يومي السبت والأحد. ستُعقد الدروس من الاثنين إلى الجمعة فقط. شكرًا لتفهمكم."
